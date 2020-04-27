@@ -5,10 +5,7 @@ require('shinydashboard')
 library(data.table)
 library(sortable)
 
-source('chooser.R')
-
 optionsall=fread("masteroptionslist.csv")
-
 
 css <- 
   "
