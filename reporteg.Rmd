@@ -1,0 +1,47 @@
+---
+title: "Evidence-to-decision tool summary"
+date: "`r format(Sys.time(), '%d-%B-%Y')`"
+mainfont: Verdana
+output:
+  pdf_document: default
+  word_document:
+    reference_docx: "customrep.docx"
+header-includes: \usepackage{fancyhdr}
+---
+\addtolength{\headheight}{1.0cm} 
+\pagestyle{fancyplain} 
+\chead{\includegraphics[height=2cm]{www/image1.jpg}}
+\renewcommand{\headrulewidth}{0pt} 
+
+
+### Location 
+Swallow Ford 
+
+### Action type
+Creating wet features
+
+### Focus of action
+Snipe populations.
+
+### Threats addressed
+Predation, habitat loss.
+
+### Challenges and opportunities
+The causes of decline of snipe are complex and related to predation, water management and nesting habitat. Habitat management has been successful elsewhere, such as Otmoor PSPB reserve. 
+
+&nbsp;
+
+### Background
+Kingfishers Bridge used to regularly have drumming snipe but the numbers have declined from regular records of birds in the breeding season to zero since 2016 (online annual reports). In 2017 large pools were created and the water level increased. Restoring snipe is considered a priority for the site. 
+            
+### Evidence for effectiveness
+The action **create scrapes and pools in wetlands and wet grasslands** was summarised in **Conservation Evidence** and assessed as **‘Likely to be beneficial’**. Of six studies captured, four refer to waders (all in the UK) and of these showed benefits. The really relevant study concerns the creation of 18 small scrapes in a 60ha peat grassland in Cumbria and the numbers of snipe increased from one to 11 pairs in each of the next two years (Lyons 2005).  A study in the Norfolk Broadland (Eglington et al. 2008) showed the wet features supported more than twice the biomass of surface-active invertebrates and a greater abundance of aerial invertebrates than the grazing marsh. The pools created in 2017 are used by snipe in winter, but no drumming birds have been seen.      
+
+### Possible modifications
+Footdrains have been successful in Otmoor for increasing snipe populations. Three studies showed footdrains were beneficial for waders, especially lapwing, but snipe were not part of these studies (Smart & Coutts 2004, Kahlert et al. 2007, Eglington et al. 2008). It known that snipe prefer to feed close to nesting sites making footdrains an attractive option. 
+
+### Other considerations
+With a limited area of habitat and desires to have habitat for species of wet grassland the creation of scrapes is less attractive. Rill creation is affordable with available equipment. Rills would increase the natural appearance of washland and not interfere with grazing.  
+
+### Summary
+Overall, it seems that creating footdrains is likely to be more beneficial than creating pools so 80m of these should be dug in autumn 2020.
