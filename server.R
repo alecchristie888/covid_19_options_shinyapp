@@ -1,8 +1,6 @@
 library('tinytex')
 library(data.table)
-library(qpcR)
 library(openxlsx)
-source('chooser.R')
 
 server <- function(input, output,session) {
     
