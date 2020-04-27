@@ -2,69 +2,10 @@ library('tinytex')
 library(data.table)
 library(qpcR)
 library(openxlsx)
-#tinytex::install_tinytex()
 source('chooser.R')
 
 server <- function(input, output,session) {
-  
-  # on click of a taba valuebox
-  shinyjs::onclick('taba',expr={
-    # move to tab2
-    updateTabsetPanel(session, "navbar", 'taba_val')
-  })
-  # on click of a tab1 valuebox
-  shinyjs::onclick('tab1',expr={
-    # move to tab2
-    updateTabsetPanel(session, "navbar", 'tab1_val')
-  })
-  
-  # on click of a tab2 valuebox
-  shinyjs::onclick('tab2',expr={
-    # move to tab2
-    updateTabsetPanel(session, "navbar", 'tab2_val')
-  })
-  
-  shinyjs::onclick('tab3',expr={
-    # move to tab3
-    updateTabsetPanel(session, "navbar", 'tab3_val')
-  })
-  
-  #shinyjs::onclick('tab4',expr={
-    # move to tab4
-  #  updateTabsetPanel(session, "navbar", 'tab4_val')
-  #})
-  #shinyjs::onclick('tab5',expr={
-#
-  #  updateTabsetPanel(session, "navbar", 'tab5_val')
-  #})
-  shinyjs::onclick('tab6',expr={
-
-    updateTabsetPanel(session, "navbar", 'tab6_val')
-  })
-  shinyjs::onclick('tab7',expr={
-
-    updateTabsetPanel(session, "navbar", 'tab7_val')
-  })
-
-  
-  output$selection1 <- renderPrint(
-    input$rank_list_2
-  )
-  output$selection2 <- renderPrint(
-    input$rank_list_4
-  )
-  output$selection3 <- renderPrint(
-    input$rank_list_6
-  )
-  #output$selection4 <- renderPrint(
-  #  input$mychooser4$right
-  #)
-  #output$selection5 <- renderPrint(
-  #  input$mychooser5$right
-  #)
-  
-
-
+    
   textsummary <- reactive({
       name1=input$risk1
       name2=input$risk2
