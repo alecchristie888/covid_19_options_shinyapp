@@ -14,31 +14,31 @@ header-includes: \usepackage{fancyhdr}
 
 There is a wide set of guidance on reducing SARS-CoV-2 transmission that should be used to explore options for implementing that guidance.
 
-`r if(length(c(input$rank_list_2a,input$rank_list_4a,input$rank_list_6a))>0){paste("Risk:",input$risk1,sep=" ")}`
+
+
+`r if(length(c(input$rank_list_2a,input$rank_list_4a,input$rank_list_6a))>0){paste(input$risk1)}`
 
 ```{r echo = FALSE,  warning=FALSE}
 library(knitr)
 if(length(c(input$rank_list_2a,input$rank_list_4a,input$rank_list_6a))>0){
-  kable(x=c(input$rank_list_2a,input$rank_list_4a,input$rank_list_6a), col.names = '',row.names = TRUE)}
+      col1 = c(input$rank_list_2a,input$rank_list_4a,input$rank_list_6a)
+      if(length(col1)==0){col1=NA}
+      col1titles=NA
+      for(i in 1:length(col1)){
+        if(is.na(col1[i])==FALSE){
+        col1titles[i]=optionsall[actiondesc==col1[i],actiontitle]
+        }
+      }
+
+      tab1 = data.frame(col1titles, col1)
+      tab1[,1]=gsub("NA","Please add some actions in the previous tabs",tab1[,1])
+      tab1[,2]=gsub("NA","Please add some actions in the previous tabs",tab1[,2])
+      colnames(tab1)=c("Societal feature/Behaviour", "Action")
+      
+      kable(tab1[order(tab1[,1]),],row.names = FALSE)}
 ```
 
 
-`r if(length(c(input$rank_list_2b,input$rank_list_4b,input$rank_list_6b))>0){paste("Risk:",input$risk2,sep=" ")}`
 
-```{r echo = FALSE, linewidth=60,warning=FALSE}
-library(knitr)
-if(length(c(input$rank_list_2b,input$rank_list_4b,input$rank_list_6b))>0){
-kable(x=c(input$rank_list_2b,input$rank_list_4b,input$rank_list_6b), col.names = '',row.names = TRUE)
-}
-```
-
-`r if(length(c(input$rank_list_2c,input$rank_list_4c,input$rank_list_6c))>0){paste("Risk:",input$risk3,sep=" ")}`
-
-```{r echo = FALSE, linewidth=60, warning=FALSE}
-library(knitr)
-if(length(c(input$rank_list_2c,input$rank_list_4c,input$rank_list_6c))>0){
-kable(x=c(input$rank_list_2c,input$rank_list_4c,input$rank_list_6c), col.names = '',row.names = TRUE)
-}
-```
 
 This is derived from the [ShinyApp](https://alecchristie888.shinyapps.io/Covid_19_options) from the list of options [https://covid-19.biorisc.com](https://covid-19.biorisc.com) from a solution scan of the means to reduce SARS-CoV-2 transmission (Paper preprint: [https://osf.io/ca5rh/file](https://osf.io/ca5rh/file)).

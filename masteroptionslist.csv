@@ -1,0 +1,248 @@
+actionid,actionsubid,actiontitle,actiontitleid,actiondesc
+1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Self-isolate for a given period if showing one or more main symptoms
+1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Clearly explain the consequences of not self-isolating
+1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Encourage household members to self-isolate for a period if any show symptoms.
+1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,"Pay staff to stay at home when infected, showing possible symptoms, or if another household member shows symptoms."
+1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Recruit and train volunteers to facilitate self-isolation.
+1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Provide self-isolation spaces (e.g. hotel rooms) for key workers
+1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Support self-employed who are ill.
+1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Routinely take temperature and prevent access of those with elevated temperatures. 
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Encourage or enforce working from home. 
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Encourage or enforce non-working where home working is not possible. 
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Pay staff to stay at home even when showing no signs of infection.
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Move lectures and teaching to a home-based setting.
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Create ‘virtual schools’ to enable continued education.
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,"Increase options for home and community health care, including the provision of simple self-testing equipment, for some vulnerable groups."
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Provide accommodation and support for those without permanent accommodation.
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Reduce face-to-face interactions at work.
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Advise and support  workers who are unable to work from home in minimising movement and interactions outside of house and work.
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Advise people living with workers who are unable to work from home to minimise movement outside of their home.
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Advise older people and vulnerable people to strictly stay at home unless for essential reasons.
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Advise people who live with medically vulnerable people to reduce their own movement outside
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Provide additional support or develop or modify platforms to be more accessible and intuitive for vulnerable and isolated groups who may be less comfortable with technology so that they can order groceries and socialise while in isolation.
+1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,"Ensure information is available to isolated groups, e.g. those without internet at home or don’t speak the official language."
+1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Encourage and facilitate minimal movement in communities.
+1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Create ways for people to share shopping trips so there are fewer in number (e.g. through community groups or one shopper per community).
+1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Encourage or allow only one person per household out to shop.
+1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Prohibit travel to areas where physical distancing is likely to be difficult to maintain.
+1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Reduce or remove transport services so only used for essential travel.
+1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Encourage or require that the workforce do not go out to buy lunch.
+1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Use effective messaging to ensure those with symptoms do not visit doctor or hospital without prior warning.
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Increase delivery service from shops, food banks and other providers (e.g. veg box schemes)."
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Improve infrastructure to enable people to obtain groceries, medicines, and other essential goods by delivery."
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Where the capacity is available, make home delivery more attractive, e.g. waiving delivery fee or offering discounts."
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Encourage or enforce ‘minimum spend’ or ‘minimum items’ to encourage people to combine trips to obtain goods.
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Share surveillance among shops, including CCTV and monitoring for people making ‘excessive’ visits. "
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Prioritise key workers for ‘click and collect’ or delivery.
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Prioritise those at higher risk for  ‘click and collect’ or delivery.
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Enable more home delivery, recruit people to act as delivery agents who can be screened and drop off shopping without contact."
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Create a special period for key workers to shop.
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Create a special period for at risk categories to shop.
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Companies who deliver to the hospitality trade convert or expand to home deliveries.
+1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Discourage or restrict people from buying non-essential or luxury items, including removing them from stock, limiting their availability or preventing people from only buying them, while noting that the definition of ‘non-essential’ will vary."
+1,1.5,1.5 Reduce physical contact,1.5 Reduce physical contact,"Discourage physical contact, such as shaking hands, kissing or hugging, outside household members/officially listed “bubble” of friends."
+1,1.5,1.5 Reduce physical contact,1.5 Reduce physical contact,Identify and encourage alternative methods for greeting people that reduce the risk of virus transmission such as ‘elbow bumping’ rather than shaking hands.
+1,1.5,1.5 Reduce physical contact,1.5 Reduce physical contact,"Activities involving close contact, such as hairdressing, are done by a household member, but with guidance provided by a professional via video link."
+1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Close places of public gathering depending upon their importance to society and degree of likely close physical spacing.
+1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,"If workplaces are still open, close canteens and other non-essential common spaces."
+1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Restaurant food providers change to takeaway. 
+1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,"Discourage or ban public gatherings including concerts, sports events and markets."
+1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Limit group sizes for people not from the same household in public.
+1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Limit number or type of people at essential events such as weddings or funerals. 
+1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,"Remove or exclude facilities that encourage groups to form, such as park benches. "
+1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Discourage unnecessary speaking when people are in close contact.
+1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Reduce noise so people don't have to raise voices or move closer.
+1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Increase use of virtual reality.
+1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,"Focus on constraining ‘long’ connections between people in different social groups who seldom or rarely interact (e.g. people with a shared interest, work visitors) rather than short connections between people in similar social groups who regularly interact with one another (e.g. close family, colleagues, close friends)."
+1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,Ask people to identify their bubble—everyone they live with or must have contact with—and ask people to stay as much as possible within their bubble. 
+1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,Use social media to formally ask people to identify their bubble (will also help with track and tracing if applied). 
+1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,Retain the same members sharing spaces (teams at work or in schools).
+1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,Split and separate teams doing key work in case one team gets infected.
+1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,"Avoid or discourage sharing spaces, such as cars, except with usual contacts."
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Restrict capacity on transport.
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Restrict public transport to specified groups (e.g. key workers).
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Provide extra parking for additional cars and bicycles (to reduce public transport use).
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Offer free bicycles to reduce the use of public transport.
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,"Widen/install new bike lanes, to encourage bike use (instead of buses/trains). "
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Move public transport to reduced hours (e.g. Sunday timetable) to reduce contact for drivers.
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Block out alternate seats or alternate rows of seats.
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Encourage passengers to leave spaces between themselves.
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,"Install plastic shields between seats in buses, trains, rapid transit."
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,"Where present, use doors away from staff for entry/exit of public transport and keep passengers away from staff, to protect the driver and spread via the driver (e.g. disabling the front doors on buses and blocking out all seats in the front half)."
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Businesses plan for any staff who fall ill at work to have means to return home safely.
+1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Remove distinctions between first and economy class seats on public transport as a quick way of increasing capacity with spacing.
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Stagger start and finish times of users or staff.
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Introduce a booking system to enable people to book time slots.
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Expand the phone technology used to detect congested areas (e.g. roads,  shops or exercise areas)."
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Allocate time slots by verifiable groups such as first letter of surname, identity card number, house number (e.g. odd/even) for spaces used by communities who know where people live, street, car registration number, social group (e.g. families with children, retired individuals), or work group.  "
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Limit time inside shared space, but consider that this might result in more frequent visits. "
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Mark out train carriages on platforms, and tell passengers how to redistribute by announcement and through cameras on train (eventually done electronically)."
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Divide into groups and rotate use of shared space (e.g. office staff alternating attendance, students attending classes every two or three weeks)."
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Automated system that directs train passengers to less occupied carriages (already available in many countries including UK and Germany).
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Drivers wait in car when dropping off or picking up objects or people.
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Have a time period (such as 10am–12pm) in which only vulnerable people can leave their houses.
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Phase in spacing methods. For example, by initially only opening public spaces at less popular times and with stringent conditions."
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Only allow single individuals at one time to use public spaces (such as a shop), except where assistance is needed."
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Encourage vulnerable individuals to visit shared areas early in the day (especially if cleaned overnight) or at other low use times.
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Erect plastic compartments to separate groups in settings such as parks or beaches [24].
+1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Provide live announcements on spacing (e.g. how crowded the canteen is).
+1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,Set security access pass system or QR codes to limit numbers.
+1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,Use an entry and exit ticket system with barriers similar to those operated in car parks.
+1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,Use Wi-Fi cameras in rooms or train carriages. People log onto the camera via Wi-Fi to know when to go in or where there is available space. 
+1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,Design system so doors automatically shut once numbers exceed a given threshold as detected by phone signals.
+1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,"Queue-in-your-car system where you text the supermarket you want to shop in, sit in your car, and then get an alert when it is your turn to go inside."
+1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,"Individuals queue online and are told when their turn is to leave house, office or desk for e.g. doctors survey or lunch."
+1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,"Provide access to nearby open spaces (e.g. golf courses, educational campuses), perhaps with compensation to the owners or neighbours."
+1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Increase open access rights to private land to reduce crowding in parks.
+1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Incentivise well-managed access to private land for local communities.
+1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Create an online platform to enable use of nearby unused gardens or open space.
+1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Increase size of space used (e.g. meeting room).
+1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,"Increase the number or size of facilities, such as eating areas or changing rooms, to increase spacing. "
+1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Exclude or limit traffic to certain roads/lower speed limits so that they can be used for exercise and recreation and to facilitate physical distancing while walking/cycling.
+1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Run activity for longer (e.g. increase canteen hours).
+1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Repeat events (e.g. church services or talks).
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,"Use clear, colourful markings on the ground to space people out (e.g. grid to show where to eat lunch or spaces in queues), make these tactile to facilitate access for those with limited vision."
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,"Use effective messaging, asking people to observe physical distancing."
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Employ dedicated staff to help people observe physical distancing in queues and enforce norms where necessary.
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Avoid restocking of shops when customers are inside the building if it causes congestion.
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,"Maintain gaps between workspaces (e.g. only opening every second checkout, increasing space between desks in open plan offices)."
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Reduce the maximum capacity for rooms to allow greater distance between individuals.
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Encourage or enforce use of stairs rather than lifts for those able to do so.
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Limit number using a lift at one time e.g. one person or household or one person in each corner if large lift.
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Only allow disabled/elderly people to use lifts.
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Increase spacing on escalators (e.g. paint out alternate steps with steps shared only by people from the same household). 
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Discourage or ban walking on escalators.
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Increase access points to reduce congestion.
+1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,"Separate walkers, runners and cyclists."
+1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,"Create one-way routes around buildings, shops, exercise routes and other spaces using arrows and barriers."
+1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,Encourage or enforce walking clockwise around shared spaces.
+1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,"Encourage or enforce walking on one side of paths, pavements or sidewalks (the precise option may depend on local traffic rules or social norms)."
+1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,"If there are two staircases in a building, consider making one up and one down."
+1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,Clearly separate entrances and exits (considering how this impacts flow outside). 
+1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,At congested entry points give directions for users to alternate who goes next from the physically-distanced queue on each side.
+1,1.14,1.14 Hinder transmission through air,1.14 Hinder transmission through air,"Install barriers and/or transparent screens, e.g. in shops or public vehicles."
+1,1.14,1.14 Hinder transmission through air,1.14 Hinder transmission through air,Hold events outdoors where possible.
+1,1.14,1.14 Hinder transmission through air,1.14 Hinder transmission through air,Increase ventilation indoors to help ensure that infectious aerosols are diluted and flushed out.
+2,2.1,2.1 Remove objects requiring physical contact,2.1 Remove objects requiring physical contact,"Where possible, remove systems that need skin contact, such as door handles or fingerprint scanners."
+2,2.1,2.1 Remove objects requiring physical contact,2.1 Remove objects requiring physical contact,"Review objects touched by multiple individuals (e.g. water dispensers, public seating) and consider removing those that are not essential, especially those difficult to clean."
+2,2.1,2.1 Remove objects requiring physical contact,2.1 Remove objects requiring physical contact,"Where practical, remove or prop open doors and gates indoors and outdoors."
+2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,"Use automated, contactless, systems such as automatic doors, automatic taps, automated pedestrian crossings [27] or automatic disinfectant dispensers."
+2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Replace bins with lids in public spaces with foot operated lids or open bins.
+2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Develop phone App to sign for packages without needing to use delivery courier's e-pen. 
+2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Replace package sign-in with courier photo of delivery at address showing the door opened (already in place for most courier companies in the UK).
+2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Use a personal pointer when touching shared screens instead of fingertips.
+2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Plastic bag charge waived for online delivery to encourage leaving outside the property and reduce contact.
+2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Make plastic bags mandatory for online delivery with bags to be left outside property and brought in by customer.
+2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Develop no-plug charging for the next generation electric vehicle fleet and other appliances.
+2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Replace touch screen recognition with voice recognition.
+2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,Encourage or require paying by card to reduce handling money.
+2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,Encourage or require contactless payment (including through phones) to reduce contact with payment terminals.
+2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,"Increase maximum allowance for contactless payments, as done in Estonia [28]."
+2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,Remove fee (if present) for minimum payment by contactless to encourage use.
+2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,Make contactless payment the default option at self-checkouts to reduce the need to touch the screen.
+2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,Print barcodes on supermarket carrier bags to enable them to be paid for by scanning.
+2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,"Enable small outlets to take payments over the phone (some banks are reluctant to allow this), for example to allow customers to collect goods outside. "
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Remove self-packaging options when purchasing food by pre-packaging at production stage (e.g. for fresh bread and vegetables). 
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,"Create convention that different people touch different areas of objects, for example design refuse bins so collectors touch different areas from householders (e.g. centre element of handle red and marked “do not touch” or designed with separate handle)"
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Use drones for delivery.
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Use driverless vehicles for delivery.
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Modify supermarket trolleys so they are no longer coin operated.
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Locate bar codes so the cashier does not have to touch any goods.
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Extend the conveyor belt to move goods towards customers without the cashier pushing them.
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,"Use messaging to reduce unnecessary touching of items, for example items in shops unless bought (i.e. apply a “touch it and take it” rule)."
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Have a ‘reject’ bin for mouldy/broken items once touched.
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,"All rubbish, such as waste after eating, placed straight in the bin rather than left for someone else to clear up."
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,"Encourage use of ‘Scan and Go’ technology in shops where items are directly scanned and bagged by the customer whilst shopping, including the use of personal mobile phones as scanners."
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Present barcode/QR codes on shelf labels so customers can obtain information (including allergy information) remotely.
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Ensure products are stacked on shelves with labels and barcodes facing outwards to remove need for touching.
+2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,"Remove unnecessary food packaging as soon as possible after purchase, and dispose of (ideally in a lidded waste bin)."
+2,2.5,2.5 Use tools to avoid direct contact,2.5 Use tools to avoid direct contact,Tools provided to individuals (e.g. tongs by shop) to remove direct contact with items. Tools decontaminated before the next use.
+2,2.5,2.5 Use tools to avoid direct contact,2.5 Use tools to avoid direct contact,"Individuals bring their own tools, such as tongs to pick up shopping and probes to press PIN (tools ideally designed to be multifunctional). Tool decontamination available at entry and exit. "
+2,2.5,2.5 Use tools to avoid direct contact,2.5 Use tools to avoid direct contact,"Provide gloves before using common facilities, such as petrol pumps and upon entry to shops. Provide bins to correctly dispose of gloves at end of use. "
+2,2.5,2.5 Use tools to avoid direct contact,2.5 Use tools to avoid direct contact,Eat with utensils rather than fingers.
+2,2.6,2.6 Reduce touching with palm and especially fingers,2.6 Reduce touching with palm and especially fingers,Use a finger joint rather than fingertip to touch objects (such as doorbell or PIN keypad).
+2,2.6,2.6 Reduce touching with palm and especially fingers,2.6 Reduce touching with palm and especially fingers,Replace round knob-style door handles with lever handles that could be operated using probes.
+2,2.6,2.6 Reduce touching with palm and especially fingers,2.6 Reduce touching with palm and especially fingers,Use an elbow or back rather than hands to push heavier items (such as doors)
+2,2.6,2.6 Reduce touching with palm and especially fingers,2.6 Reduce touching with palm and especially fingers,"Redesign or adapt objects requiring physical contact to reduce hand contact, such as foot- or elbow-operated public water dispensers, gates or doors."
+2,2.7,2.7 Reduce multiple people touching objects,2.7 Reduce multiple people touching objects,"Have single person touching object normally touched by many, e.g. a member of staff to refuel cars to prevent multiple handling of petrol pumps. "
+2,2.7,2.7 Reduce multiple people touching objects,2.7 Reduce multiple people touching objects,"Shorten production lines where feasible, or fix working relationships so that each individual in a production line only has to interact with a limited number of colleagues."
+2,2.8,2.8 Encourage sole use of items,2.8 Encourage sole use of items,"Individuals use their own rather than shared items, such as staplers, or using water bottles instead of glasses (whilst considering the contamination risk from home). "
+2,2.8,2.8 Encourage sole use of items,2.8 Encourage sole use of items,Encourage workers to bring their own food and pre-prepare items before coming to work.
+2,2.8,2.8 Encourage sole use of items,2.8 Encourage sole use of items,"Do not provide communal utensils for eating or drinking in the workplace, unless they can be properly cleaned between uses. "
+2,2.8,2.8 Encourage sole use of items,2.8 Encourage sole use of items,Eat at own desk where possible.
+2,2.8,2.8 Encourage sole use of items,2.8 Encourage sole use of items,Work at own desk rather than hotdesking.
+2,2.9,2.9 Minimise reuse of objects,2.9 Minimise reuse of objects,"Greater use of disposable cups, cutlery and plates so long as these can be disposed of safely."
+2,2.9,2.9 Minimise reuse of objects,2.9 Minimise reuse of objects,"Stop customers from using their own, reusable food containers, e.g. in Starbucks across Europe, Middle East and Africa."
+2,2.9,2.9 Minimise reuse of objects,2.9 Minimise reuse of objects,Ban use of reusable shopping bags
+2,2.9,2.9 Minimise reuse of objects,2.9 Minimise reuse of objects,"Suspend or postpone plastic bag bans or charges in grocery stores, to discourage use of reusable shopping bags"
+2,2.1,2.10 Use safer surfaces,2.10 Use safer surfaces,"Add copper surfaces to communal/public spaces, healthcare facilities and other critical locations. "
+2,2.1,2.10 Use safer surfaces,2.10 Use safer surfaces,Use paper instead of plastic bags.
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Encourage regular, effective, handwashing (including arms if they are kept bare) especially when changing location or after possible contamination."
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Improve access to water and soap, or sanitiser to those who lack access to basic handwashing facilities."
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Invest in low-tech handwashing stations in low-resource communities, which can be installed at bus stops, etc."
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Provide information on how to effectively wash hands, accepting varying guidance."
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Use signage in bathrooms that communicates the risks of not washing hands. 
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"If a sink tap is programmed to run only for a short period of time, increase that length of time (if technically feasible) to avoid having to press the tap again mid-wash (also decreases the risk that people wash their hands for too little time)."
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Ensure that sink water temperature is not too hot so that hands can be held under whilst washing. 
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"In the absence of automated sink taps, install taps that can be switched on and off without fingers."
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Replace separate sink taps with a single mixer tap to make hand-washing more effective.
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Ensure sinks are deep enough to facilitate effective hand-washing and to avoid accidental touching of the sink while washing hands.
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Provide hand washing facilities at entrances, exits and at areas of potential contamination."
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Provide automatic alcohol-based hand sanitisers at entrances, exits and at areas of potential contamination."
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Provide automatic alcohol-based hand sanitisers on public transport.
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Encourage or require hand cleaning on arrival and departure. 
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Encourage or require hand cleaning before and after dealing with potentially contaminated items.
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Encourage or require hand cleaning before and after eating.
+3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Provide free soap or sanitiser to key workers and volunteers, such as bin collectors and delivery drivers, to encourage regular washing."
+3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Encourage people to avoid touching face.
+3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Use vibrating wristband or computer applications to discourage people from touching their face.
+3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Encourage or require people to stop spitting in public places.
+3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Wash hands thoroughly before and after touching the face.
+3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Encourage people to sneeze or cough into their elbow rather than hand (to reduce further transmission).
+3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,"Encourage people to carry tissues and place them in a bin after coughing, sneezing, or wiping their face, rather than using clothing or handkerchiefs."
+3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,"Encourage people to shower upon returning home (particularly for health care workers, bus drivers, shop workers, etc.)."
+3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Increase the number of waste bins available for disposing of tissues in public places. 
+3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,"Increase the availability of shower facilities at the workplace for health care workers, bus drivers, shop workers, etc."
+3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,"Put down the toilet seat cover before flushing to reduce the spread of aerosolised microbes, fit covers where missing. "
+3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,"Restrict activities to workers who have passed a test of their knowledge of hygiene, as in the Finnish system of Hygiene passports."
+3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,"Wear masks when outside the home. Currently, face masks are mandatory in some countries and some shops in Austria."
+3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,Provide face masks on entry to premises and facilities for safe disposal of masks on exit.
+3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,"Prioritise the supply of face masks to vulnerable groups, including those who may not be able to afford them, and facilitate the washing and/or disposal of facemasks for all after use."
+3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,Prioritise the supply of face masks to key workers.
+3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,"Provide public information and training on the safe and effective application, wearing, removal, cleaning and disposal of face masks and other personal protective equipment."
+3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,"Ensure high standards of consumer protection against the mis-selling of inadequate, overpriced or inappropriate facemasks and other personal protective equipment."
+3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,"Change and wash clothing on returning home or after possible contamination (particularly for health care workers, bus drivers, shop workers, etc.) ."
+3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,Avoid shaking dirty laundry before washing to reduce the possibility of dispersing virus through the air.
+3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,"Wash and dry laundry bags, or disinfect basket."
+3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,Wash laundry at an appropriate temperature and with an appropriate amount of detergent.
+3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,Dry laundry completely before wearing.
+3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,"Fold laundry at home, rather than in public places such as a launderette."
+3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,Support people whose access to clothes washing facilities may be limited due to economic situation or lockdown regulations.
+3,3.5,3.5 Use of UV-C,3.5 Use of UV-C,Disinfect food with UV-C.
+3,3.5,3.5 Use of UV-C,3.5 Use of UV-C,"Disinfect post, money and other objects (e.g. phone or keys) with UV-C."
+3,3.5,3.5 Use of UV-C,3.5 Use of UV-C,"Disinfect rooms, vehicles or similar infrastructure with UV-C."
+3,3.5,3.5 Use of UV-C,3.5 Use of UV-C,Support vulnerable individuals to obtain UV-C cleaning facilities where appropriate.
+3,3.5,3.5 Use of UV-C,3.5 Use of UV-C,Support key workers to obtain UV-C cleaning facilities where appropriate.
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Make the spaces on public transport and other shared spaces easier to rapidly disinfect or wipe down, for example by using non-absorbent materials."
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Regularly treat external shared spaces, such as seats or playgrounds, with disinfectant."
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Regularly clean objects most likely to be contaminated (taps, petrol pumps, door handles, pin machines, etc). "
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Regularly clean workspaces especially high risk areas, such as desks, keyboards, door handles, canteen, toilet and washroom areas, printers, water coolers, and toys in nurseries."
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Reduce the hours that shops and public transport are open to enable cleaning to take place.
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Encourage  or require individuals to use disposable wipes to clean shared surfaces and facilities before use. 
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Encourage or require people to carry their own disinfectant to routinely use before touching shared objects, such as door handles."
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Provide disinfectant wipes and accompanying disposal facilities for individual use at locations where contamination is more likely, such as to wipe down cards, card machines/door entry systems."
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Deep clean any areas used by people who report feeling ill.
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Clean shared facilities between use by individuals, such as canteen tables, shopping trolleys or self-service touch screens."
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Spray outdoor spaces and vehicles with disinfectant, from drones or aircraft."
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Provide clear guidance on effective ways of cleaning at home.
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Provide free disinfectant sprays and refilling stations.
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Create clear industry standards and expectations regarding disinfectant use in hotels, take-away restaurants etc."
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Clean packaging - like cans before storing or opening.
+3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Wash unpackaged produce (e.g. fruit and vegetables) thoroughly under running water before consumption.
+3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,"Place non-urgent, non-perishable post-delivered items (letters and packages) in bags and wait before opening."
+3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,"Use boxes to collect mail, with the opportunity to inspect without touching so the recipient can decide whether to open or leave to disinfect. "
+3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,"Deliver items into storage lockers, perhaps with an enforced or encouraged delay between delivery and collection."
+3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,Double bag personal protective equipment and leave to decontaminate before disposal.
+3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,Store items that could be contaminated (e.g. shopping bags) so the one stored longest is taken first. 
+3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,As a principle select the least recently used first for anything shared (e.g. hotel rooms or vehicle fleet).
+3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,Where multiple options occur (bus seats on relatively empty buses) or can be created (line of chairs in front of someone running a series of one-to-one meetings) allocate seats to minimise overlap and maximise time since last used.
