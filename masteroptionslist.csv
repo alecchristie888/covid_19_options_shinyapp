@@ -1,248 +1,520 @@
-actionid,actionsubid,actiontitle,actiontitleid,actiondesc
-1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Self-isolate for a given period if showing one or more main symptoms
-1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Clearly explain the consequences of not self-isolating
-1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Encourage household members to self-isolate for a period if any show symptoms.
-1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,"Pay staff to stay at home when infected, showing possible symptoms, or if another household member shows symptoms."
-1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Recruit and train volunteers to facilitate self-isolation.
-1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Provide self-isolation spaces (e.g. hotel rooms) for key workers
-1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Support self-employed who are ill.
-1,1.1,1.1 Isolate infected or potentially infected individuals,1.1 Isolate infected or potentially infected individuals,Routinely take temperature and prevent access of those with elevated temperatures. 
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Encourage or enforce working from home. 
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Encourage or enforce non-working where home working is not possible. 
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Pay staff to stay at home even when showing no signs of infection.
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Move lectures and teaching to a home-based setting.
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Create ‘virtual schools’ to enable continued education.
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,"Increase options for home and community health care, including the provision of simple self-testing equipment, for some vulnerable groups."
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Provide accommodation and support for those without permanent accommodation.
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Reduce face-to-face interactions at work.
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Advise and support  workers who are unable to work from home in minimising movement and interactions outside of house and work.
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Advise people living with workers who are unable to work from home to minimise movement outside of their home.
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Advise older people and vulnerable people to strictly stay at home unless for essential reasons.
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Advise people who live with medically vulnerable people to reduce their own movement outside
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,Provide additional support or develop or modify platforms to be more accessible and intuitive for vulnerable and isolated groups who may be less comfortable with technology so that they can order groceries and socialise while in isolation.
-1,1.2,1.2 Increase home confinement across society,1.2 Increase home confinement across society,"Ensure information is available to isolated groups, e.g. those without internet at home or don’t speak the official language."
-1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Encourage and facilitate minimal movement in communities.
-1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Create ways for people to share shopping trips so there are fewer in number (e.g. through community groups or one shopper per community).
-1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Encourage or allow only one person per household out to shop.
-1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Prohibit travel to areas where physical distancing is likely to be difficult to maintain.
-1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Reduce or remove transport services so only used for essential travel.
-1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Encourage or require that the workforce do not go out to buy lunch.
-1,1.3,1.3 Reduce local movement,1.3 Reduce local movement,Use effective messaging to ensure those with symptoms do not visit doctor or hospital without prior warning.
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Increase delivery service from shops, food banks and other providers (e.g. veg box schemes)."
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Improve infrastructure to enable people to obtain groceries, medicines, and other essential goods by delivery."
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Where the capacity is available, make home delivery more attractive, e.g. waiving delivery fee or offering discounts."
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Encourage or enforce ‘minimum spend’ or ‘minimum items’ to encourage people to combine trips to obtain goods.
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Share surveillance among shops, including CCTV and monitoring for people making ‘excessive’ visits. "
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Prioritise key workers for ‘click and collect’ or delivery.
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Prioritise those at higher risk for  ‘click and collect’ or delivery.
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Enable more home delivery, recruit people to act as delivery agents who can be screened and drop off shopping without contact."
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Create a special period for key workers to shop.
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Create a special period for at risk categories to shop.
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,Companies who deliver to the hospitality trade convert or expand to home deliveries.
-1,1.4,1.4 Decrease shopping visits,1.4 Decrease shopping visits,"Discourage or restrict people from buying non-essential or luxury items, including removing them from stock, limiting their availability or preventing people from only buying them, while noting that the definition of ‘non-essential’ will vary."
-1,1.5,1.5 Reduce physical contact,1.5 Reduce physical contact,"Discourage physical contact, such as shaking hands, kissing or hugging, outside household members/officially listed “bubble” of friends."
-1,1.5,1.5 Reduce physical contact,1.5 Reduce physical contact,Identify and encourage alternative methods for greeting people that reduce the risk of virus transmission such as ‘elbow bumping’ rather than shaking hands.
-1,1.5,1.5 Reduce physical contact,1.5 Reduce physical contact,"Activities involving close contact, such as hairdressing, are done by a household member, but with guidance provided by a professional via video link."
-1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Close places of public gathering depending upon their importance to society and degree of likely close physical spacing.
-1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,"If workplaces are still open, close canteens and other non-essential common spaces."
-1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Restaurant food providers change to takeaway. 
-1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,"Discourage or ban public gatherings including concerts, sports events and markets."
-1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Limit group sizes for people not from the same household in public.
-1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Limit number or type of people at essential events such as weddings or funerals. 
-1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,"Remove or exclude facilities that encourage groups to form, such as park benches. "
-1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Discourage unnecessary speaking when people are in close contact.
-1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Reduce noise so people don't have to raise voices or move closer.
-1,1.6,1.6 Limit close interactions,1.6 Limit close interactions,Increase use of virtual reality.
-1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,"Focus on constraining ‘long’ connections between people in different social groups who seldom or rarely interact (e.g. people with a shared interest, work visitors) rather than short connections between people in similar social groups who regularly interact with one another (e.g. close family, colleagues, close friends)."
-1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,Ask people to identify their bubble—everyone they live with or must have contact with—and ask people to stay as much as possible within their bubble. 
-1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,Use social media to formally ask people to identify their bubble (will also help with track and tracing if applied). 
-1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,Retain the same members sharing spaces (teams at work or in schools).
-1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,Split and separate teams doing key work in case one team gets infected.
-1,1.7,1.7 Limit intergroup mixing,1.7 Limit intergroup mixing,"Avoid or discourage sharing spaces, such as cars, except with usual contacts."
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Restrict capacity on transport.
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Restrict public transport to specified groups (e.g. key workers).
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Provide extra parking for additional cars and bicycles (to reduce public transport use).
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Offer free bicycles to reduce the use of public transport.
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,"Widen/install new bike lanes, to encourage bike use (instead of buses/trains). "
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Move public transport to reduced hours (e.g. Sunday timetable) to reduce contact for drivers.
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Block out alternate seats or alternate rows of seats.
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Encourage passengers to leave spaces between themselves.
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,"Install plastic shields between seats in buses, trains, rapid transit."
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,"Where present, use doors away from staff for entry/exit of public transport and keep passengers away from staff, to protect the driver and spread via the driver (e.g. disabling the front doors on buses and blocking out all seats in the front half)."
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Businesses plan for any staff who fall ill at work to have means to return home safely.
-1,1.8,1.8 Limit contact while undertaking travel,1.8 Limit contact while undertaking travel,Remove distinctions between first and economy class seats on public transport as a quick way of increasing capacity with spacing.
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Stagger start and finish times of users or staff.
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Introduce a booking system to enable people to book time slots.
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Expand the phone technology used to detect congested areas (e.g. roads,  shops or exercise areas)."
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Allocate time slots by verifiable groups such as first letter of surname, identity card number, house number (e.g. odd/even) for spaces used by communities who know where people live, street, car registration number, social group (e.g. families with children, retired individuals), or work group.  "
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Limit time inside shared space, but consider that this might result in more frequent visits. "
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Mark out train carriages on platforms, and tell passengers how to redistribute by announcement and through cameras on train (eventually done electronically)."
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Divide into groups and rotate use of shared space (e.g. office staff alternating attendance, students attending classes every two or three weeks)."
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Automated system that directs train passengers to less occupied carriages (already available in many countries including UK and Germany).
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Drivers wait in car when dropping off or picking up objects or people.
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Have a time period (such as 10am–12pm) in which only vulnerable people can leave their houses.
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Phase in spacing methods. For example, by initially only opening public spaces at less popular times and with stringent conditions."
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space","Only allow single individuals at one time to use public spaces (such as a shop), except where assistance is needed."
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Encourage vulnerable individuals to visit shared areas early in the day (especially if cleaned overnight) or at other low use times.
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Erect plastic compartments to separate groups in settings such as parks or beaches [24].
-1,1.9,"1.9 Spread out use of shared space, including canteen, shop or open space","1.9 Spread out use of shared space, including canteen, shop or open space",Provide live announcements on spacing (e.g. how crowded the canteen is).
-1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,Set security access pass system or QR codes to limit numbers.
-1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,Use an entry and exit ticket system with barriers similar to those operated in car parks.
-1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,Use Wi-Fi cameras in rooms or train carriages. People log onto the camera via Wi-Fi to know when to go in or where there is available space. 
-1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,Design system so doors automatically shut once numbers exceed a given threshold as detected by phone signals.
-1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,"Queue-in-your-car system where you text the supermarket you want to shop in, sit in your car, and then get an alert when it is your turn to go inside."
-1,1.1,1.10 Maintain maximum number using a location,1.10 Maintain maximum number using a location,"Individuals queue online and are told when their turn is to leave house, office or desk for e.g. doctors survey or lunch."
-1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,"Provide access to nearby open spaces (e.g. golf courses, educational campuses), perhaps with compensation to the owners or neighbours."
-1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Increase open access rights to private land to reduce crowding in parks.
-1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Incentivise well-managed access to private land for local communities.
-1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Create an online platform to enable use of nearby unused gardens or open space.
-1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Increase size of space used (e.g. meeting room).
-1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,"Increase the number or size of facilities, such as eating areas or changing rooms, to increase spacing. "
-1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Exclude or limit traffic to certain roads/lower speed limits so that they can be used for exercise and recreation and to facilitate physical distancing while walking/cycling.
-1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Run activity for longer (e.g. increase canteen hours).
-1,1.11,1.11 Expand space or time for shared activities,1.11 Expand space or time for shared activities,Repeat events (e.g. church services or talks).
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,"Use clear, colourful markings on the ground to space people out (e.g. grid to show where to eat lunch or spaces in queues), make these tactile to facilitate access for those with limited vision."
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,"Use effective messaging, asking people to observe physical distancing."
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Employ dedicated staff to help people observe physical distancing in queues and enforce norms where necessary.
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Avoid restocking of shops when customers are inside the building if it causes congestion.
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,"Maintain gaps between workspaces (e.g. only opening every second checkout, increasing space between desks in open plan offices)."
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Reduce the maximum capacity for rooms to allow greater distance between individuals.
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Encourage or enforce use of stairs rather than lifts for those able to do so.
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Limit number using a lift at one time e.g. one person or household or one person in each corner if large lift.
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Only allow disabled/elderly people to use lifts.
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Increase spacing on escalators (e.g. paint out alternate steps with steps shared only by people from the same household). 
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Discourage or ban walking on escalators.
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,Increase access points to reduce congestion.
-1,1.12,1.12 Increase physical spacing,1.12 Increase physical spacing,"Separate walkers, runners and cyclists."
-1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,"Create one-way routes around buildings, shops, exercise routes and other spaces using arrows and barriers."
-1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,Encourage or enforce walking clockwise around shared spaces.
-1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,"Encourage or enforce walking on one side of paths, pavements or sidewalks (the precise option may depend on local traffic rules or social norms)."
-1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,"If there are two staircases in a building, consider making one up and one down."
-1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,Clearly separate entrances and exits (considering how this impacts flow outside). 
-1,1.13,1.13 Reduce counterflow interactions,1.13 Reduce counterflow interactions,At congested entry points give directions for users to alternate who goes next from the physically-distanced queue on each side.
-1,1.14,1.14 Hinder transmission through air,1.14 Hinder transmission through air,"Install barriers and/or transparent screens, e.g. in shops or public vehicles."
-1,1.14,1.14 Hinder transmission through air,1.14 Hinder transmission through air,Hold events outdoors where possible.
-1,1.14,1.14 Hinder transmission through air,1.14 Hinder transmission through air,Increase ventilation indoors to help ensure that infectious aerosols are diluted and flushed out.
-2,2.1,2.1 Remove objects requiring physical contact,2.1 Remove objects requiring physical contact,"Where possible, remove systems that need skin contact, such as door handles or fingerprint scanners."
-2,2.1,2.1 Remove objects requiring physical contact,2.1 Remove objects requiring physical contact,"Review objects touched by multiple individuals (e.g. water dispensers, public seating) and consider removing those that are not essential, especially those difficult to clean."
-2,2.1,2.1 Remove objects requiring physical contact,2.1 Remove objects requiring physical contact,"Where practical, remove or prop open doors and gates indoors and outdoors."
-2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,"Use automated, contactless, systems such as automatic doors, automatic taps, automated pedestrian crossings [27] or automatic disinfectant dispensers."
-2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Replace bins with lids in public spaces with foot operated lids or open bins.
-2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Develop phone App to sign for packages without needing to use delivery courier's e-pen. 
-2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Replace package sign-in with courier photo of delivery at address showing the door opened (already in place for most courier companies in the UK).
-2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Use a personal pointer when touching shared screens instead of fingertips.
-2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Plastic bag charge waived for online delivery to encourage leaving outside the property and reduce contact.
-2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Make plastic bags mandatory for online delivery with bags to be left outside property and brought in by customer.
-2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Develop no-plug charging for the next generation electric vehicle fleet and other appliances.
-2,2.2,2.2 Improve ease of carrying out activities without contact,2.2 Improve ease of carrying out activities without contact,Replace touch screen recognition with voice recognition.
-2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,Encourage or require paying by card to reduce handling money.
-2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,Encourage or require contactless payment (including through phones) to reduce contact with payment terminals.
-2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,"Increase maximum allowance for contactless payments, as done in Estonia [28]."
-2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,Remove fee (if present) for minimum payment by contactless to encourage use.
-2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,Make contactless payment the default option at self-checkouts to reduce the need to touch the screen.
-2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,Print barcodes on supermarket carrier bags to enable them to be paid for by scanning.
-2,2.3,2.3 Increase use of contactless payment,2.3 Increase use of contactless payment,"Enable small outlets to take payments over the phone (some banks are reluctant to allow this), for example to allow customers to collect goods outside. "
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Remove self-packaging options when purchasing food by pre-packaging at production stage (e.g. for fresh bread and vegetables). 
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,"Create convention that different people touch different areas of objects, for example design refuse bins so collectors touch different areas from householders (e.g. centre element of handle red and marked “do not touch” or designed with separate handle)"
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Use drones for delivery.
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Use driverless vehicles for delivery.
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Modify supermarket trolleys so they are no longer coin operated.
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Locate bar codes so the cashier does not have to touch any goods.
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Extend the conveyor belt to move goods towards customers without the cashier pushing them.
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,"Use messaging to reduce unnecessary touching of items, for example items in shops unless bought (i.e. apply a “touch it and take it” rule)."
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Have a ‘reject’ bin for mouldy/broken items once touched.
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,"All rubbish, such as waste after eating, placed straight in the bin rather than left for someone else to clear up."
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,"Encourage use of ‘Scan and Go’ technology in shops where items are directly scanned and bagged by the customer whilst shopping, including the use of personal mobile phones as scanners."
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Present barcode/QR codes on shelf labels so customers can obtain information (including allergy information) remotely.
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,Ensure products are stacked on shelves with labels and barcodes facing outwards to remove need for touching.
-2,2.4,2.4 Design systems to reduce shared contact,2.4 Design systems to reduce shared contact,"Remove unnecessary food packaging as soon as possible after purchase, and dispose of (ideally in a lidded waste bin)."
-2,2.5,2.5 Use tools to avoid direct contact,2.5 Use tools to avoid direct contact,Tools provided to individuals (e.g. tongs by shop) to remove direct contact with items. Tools decontaminated before the next use.
-2,2.5,2.5 Use tools to avoid direct contact,2.5 Use tools to avoid direct contact,"Individuals bring their own tools, such as tongs to pick up shopping and probes to press PIN (tools ideally designed to be multifunctional). Tool decontamination available at entry and exit. "
-2,2.5,2.5 Use tools to avoid direct contact,2.5 Use tools to avoid direct contact,"Provide gloves before using common facilities, such as petrol pumps and upon entry to shops. Provide bins to correctly dispose of gloves at end of use. "
-2,2.5,2.5 Use tools to avoid direct contact,2.5 Use tools to avoid direct contact,Eat with utensils rather than fingers.
-2,2.6,2.6 Reduce touching with palm and especially fingers,2.6 Reduce touching with palm and especially fingers,Use a finger joint rather than fingertip to touch objects (such as doorbell or PIN keypad).
-2,2.6,2.6 Reduce touching with palm and especially fingers,2.6 Reduce touching with palm and especially fingers,Replace round knob-style door handles with lever handles that could be operated using probes.
-2,2.6,2.6 Reduce touching with palm and especially fingers,2.6 Reduce touching with palm and especially fingers,Use an elbow or back rather than hands to push heavier items (such as doors)
-2,2.6,2.6 Reduce touching with palm and especially fingers,2.6 Reduce touching with palm and especially fingers,"Redesign or adapt objects requiring physical contact to reduce hand contact, such as foot- or elbow-operated public water dispensers, gates or doors."
-2,2.7,2.7 Reduce multiple people touching objects,2.7 Reduce multiple people touching objects,"Have single person touching object normally touched by many, e.g. a member of staff to refuel cars to prevent multiple handling of petrol pumps. "
-2,2.7,2.7 Reduce multiple people touching objects,2.7 Reduce multiple people touching objects,"Shorten production lines where feasible, or fix working relationships so that each individual in a production line only has to interact with a limited number of colleagues."
-2,2.8,2.8 Encourage sole use of items,2.8 Encourage sole use of items,"Individuals use their own rather than shared items, such as staplers, or using water bottles instead of glasses (whilst considering the contamination risk from home). "
-2,2.8,2.8 Encourage sole use of items,2.8 Encourage sole use of items,Encourage workers to bring their own food and pre-prepare items before coming to work.
-2,2.8,2.8 Encourage sole use of items,2.8 Encourage sole use of items,"Do not provide communal utensils for eating or drinking in the workplace, unless they can be properly cleaned between uses. "
-2,2.8,2.8 Encourage sole use of items,2.8 Encourage sole use of items,Eat at own desk where possible.
-2,2.8,2.8 Encourage sole use of items,2.8 Encourage sole use of items,Work at own desk rather than hotdesking.
-2,2.9,2.9 Minimise reuse of objects,2.9 Minimise reuse of objects,"Greater use of disposable cups, cutlery and plates so long as these can be disposed of safely."
-2,2.9,2.9 Minimise reuse of objects,2.9 Minimise reuse of objects,"Stop customers from using their own, reusable food containers, e.g. in Starbucks across Europe, Middle East and Africa."
-2,2.9,2.9 Minimise reuse of objects,2.9 Minimise reuse of objects,Ban use of reusable shopping bags
-2,2.9,2.9 Minimise reuse of objects,2.9 Minimise reuse of objects,"Suspend or postpone plastic bag bans or charges in grocery stores, to discourage use of reusable shopping bags"
-2,2.1,2.10 Use safer surfaces,2.10 Use safer surfaces,"Add copper surfaces to communal/public spaces, healthcare facilities and other critical locations. "
-2,2.1,2.10 Use safer surfaces,2.10 Use safer surfaces,Use paper instead of plastic bags.
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Encourage regular, effective, handwashing (including arms if they are kept bare) especially when changing location or after possible contamination."
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Improve access to water and soap, or sanitiser to those who lack access to basic handwashing facilities."
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Invest in low-tech handwashing stations in low-resource communities, which can be installed at bus stops, etc."
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Provide information on how to effectively wash hands, accepting varying guidance."
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Use signage in bathrooms that communicates the risks of not washing hands. 
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"If a sink tap is programmed to run only for a short period of time, increase that length of time (if technically feasible) to avoid having to press the tap again mid-wash (also decreases the risk that people wash their hands for too little time)."
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Ensure that sink water temperature is not too hot so that hands can be held under whilst washing. 
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"In the absence of automated sink taps, install taps that can be switched on and off without fingers."
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Replace separate sink taps with a single mixer tap to make hand-washing more effective.
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Ensure sinks are deep enough to facilitate effective hand-washing and to avoid accidental touching of the sink while washing hands.
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Provide hand washing facilities at entrances, exits and at areas of potential contamination."
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Provide automatic alcohol-based hand sanitisers at entrances, exits and at areas of potential contamination."
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Provide automatic alcohol-based hand sanitisers on public transport.
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Encourage or require hand cleaning on arrival and departure. 
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Encourage or require hand cleaning before and after dealing with potentially contaminated items.
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,Encourage or require hand cleaning before and after eating.
-3,3.1,3.1 Improve hand washing practice,3.1 Improve hand washing practice,"Provide free soap or sanitiser to key workers and volunteers, such as bin collectors and delivery drivers, to encourage regular washing."
-3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Encourage people to avoid touching face.
-3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Use vibrating wristband or computer applications to discourage people from touching their face.
-3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Encourage or require people to stop spitting in public places.
-3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Wash hands thoroughly before and after touching the face.
-3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Encourage people to sneeze or cough into their elbow rather than hand (to reduce further transmission).
-3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,"Encourage people to carry tissues and place them in a bin after coughing, sneezing, or wiping their face, rather than using clothing or handkerchiefs."
-3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,"Encourage people to shower upon returning home (particularly for health care workers, bus drivers, shop workers, etc.)."
-3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,Increase the number of waste bins available for disposing of tissues in public places. 
-3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,"Increase the availability of shower facilities at the workplace for health care workers, bus drivers, shop workers, etc."
-3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,"Put down the toilet seat cover before flushing to reduce the spread of aerosolised microbes, fit covers where missing. "
-3,3.2,3.2 Improve personal hygiene,3.2 Improve personal hygiene,"Restrict activities to workers who have passed a test of their knowledge of hygiene, as in the Finnish system of Hygiene passports."
-3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,"Wear masks when outside the home. Currently, face masks are mandatory in some countries and some shops in Austria."
-3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,Provide face masks on entry to premises and facilities for safe disposal of masks on exit.
-3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,"Prioritise the supply of face masks to vulnerable groups, including those who may not be able to afford them, and facilitate the washing and/or disposal of facemasks for all after use."
-3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,Prioritise the supply of face masks to key workers.
-3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,"Provide public information and training on the safe and effective application, wearing, removal, cleaning and disposal of face masks and other personal protective equipment."
-3,3.3,3.3 Increase use of face masks,3.3 Increase use of face masks,"Ensure high standards of consumer protection against the mis-selling of inadequate, overpriced or inappropriate facemasks and other personal protective equipment."
-3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,"Change and wash clothing on returning home or after possible contamination (particularly for health care workers, bus drivers, shop workers, etc.) ."
-3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,Avoid shaking dirty laundry before washing to reduce the possibility of dispersing virus through the air.
-3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,"Wash and dry laundry bags, or disinfect basket."
-3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,Wash laundry at an appropriate temperature and with an appropriate amount of detergent.
-3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,Dry laundry completely before wearing.
-3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,"Fold laundry at home, rather than in public places such as a launderette."
-3,3.4,3.4 Improve laundry practice,3.4 Improve laundry practice,Support people whose access to clothes washing facilities may be limited due to economic situation or lockdown regulations.
-3,3.5,3.5 Use of UV-C,3.5 Use of UV-C,Disinfect food with UV-C.
-3,3.5,3.5 Use of UV-C,3.5 Use of UV-C,"Disinfect post, money and other objects (e.g. phone or keys) with UV-C."
-3,3.5,3.5 Use of UV-C,3.5 Use of UV-C,"Disinfect rooms, vehicles or similar infrastructure with UV-C."
-3,3.5,3.5 Use of UV-C,3.5 Use of UV-C,Support vulnerable individuals to obtain UV-C cleaning facilities where appropriate.
-3,3.5,3.5 Use of UV-C,3.5 Use of UV-C,Support key workers to obtain UV-C cleaning facilities where appropriate.
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Make the spaces on public transport and other shared spaces easier to rapidly disinfect or wipe down, for example by using non-absorbent materials."
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Regularly treat external shared spaces, such as seats or playgrounds, with disinfectant."
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Regularly clean objects most likely to be contaminated (taps, petrol pumps, door handles, pin machines, etc). "
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Regularly clean workspaces especially high risk areas, such as desks, keyboards, door handles, canteen, toilet and washroom areas, printers, water coolers, and toys in nurseries."
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Reduce the hours that shops and public transport are open to enable cleaning to take place.
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Encourage  or require individuals to use disposable wipes to clean shared surfaces and facilities before use. 
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Encourage or require people to carry their own disinfectant to routinely use before touching shared objects, such as door handles."
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Provide disinfectant wipes and accompanying disposal facilities for individual use at locations where contamination is more likely, such as to wipe down cards, card machines/door entry systems."
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Deep clean any areas used by people who report feeling ill.
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Clean shared facilities between use by individuals, such as canteen tables, shopping trolleys or self-service touch screens."
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Spray outdoor spaces and vehicles with disinfectant, from drones or aircraft."
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Provide clear guidance on effective ways of cleaning at home.
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Provide free disinfectant sprays and refilling stations.
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,"Create clear industry standards and expectations regarding disinfectant use in hotels, take-away restaurants etc."
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Clean packaging - like cans before storing or opening.
-3,3.6,3.6 Improve cleaning,3.6 Improve cleaning,Wash unpackaged produce (e.g. fruit and vegetables) thoroughly under running water before consumption.
-3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,"Place non-urgent, non-perishable post-delivered items (letters and packages) in bags and wait before opening."
-3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,"Use boxes to collect mail, with the opportunity to inspect without touching so the recipient can decide whether to open or leave to disinfect. "
-3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,"Deliver items into storage lockers, perhaps with an enforced or encouraged delay between delivery and collection."
-3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,Double bag personal protective equipment and leave to decontaminate before disposal.
-3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,Store items that could be contaminated (e.g. shopping bags) so the one stored longest is taken first. 
-3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,As a principle select the least recently used first for anything shared (e.g. hotel rooms or vehicle fleet).
-3,3.7,3.7 Leave items or areas to decontaminate,3.7 Leave items or areas to decontaminate,Where multiple options occur (bus seats on relatively empty buses) or can be created (line of chairs in front of someone running a series of one-to-one meetings) allocate seats to minimise overlap and maximise time since last used.
+actionid,actiongroup,actionsubid,actiontitle,actiondesc,actionsubsubid
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Routinely test individuals and prevent access of those who test positive to public buildings and workplaces, e.g. in Austria.",1
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Routinely take temperature and prevent access of those with elevated temperatures to public buildings and workplaces, e.g. in China.",2
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,Encourage individuals to self-isolate if they test positive for COVID-19.,3
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,Encourage individuals to self-isolate if they show symptoms of COVID-19.,4
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Encourage individuals to self-isolate if they have been in (close) contact with someone who tests positive for COVID-19 or shows symptoms. Contacts can be traced using apps and electronic devices, as in Singapore and New Zealand, using tickets as at the Australian Open, or manually using paper-based forms.",5
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,Encourage individuals to self-isolate if any other household member tests positive for COVID-19 or shows symptoms.,6
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Encourage individuals to self-isolate based on overall virus risk, integrating factors such as home address, travel history, IT data and self-reported health status, e.g. Chinese health code mini-app.",7
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Isolate “infection herds”, i.e. groups of people sharing common spaces such as apartment blocks.",8
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Identify rooms for early isolation of potentially infected persons, and use appropriately.",9
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Provide self-isolation spaces (e.g. hotel rooms) for front line workers, key workers and workers who need to travel far away from home for their work.",10
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Prohibit individuals working with infected or potentially infected individuals (e.g. nurses, staff in quarantine hotels) from having second jobs, e.g. in Australia.",11
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Ensure individuals working with infected or potentially infected individuals (e.g. nurses, staff in quarantine hotels) are paid enough to avoid the need for second jobs.",12
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,Plan for any staff who fall ill at work to have means to return home safely.,13
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Pay staff to stay at home when infected or potentially infected, to reduce risk of transmitting illness at work.",14
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,Provide state funding for employee sick leave (rather than having the employer pay). This could make workers less hesitant to self-isolate while sick.,15
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,Financially support self-employed who are ill.,16
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,Recruit and train volunteers to facilitate self-isolation and delivery services.,17
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Clearly communicate symptoms of COVID-19, so public can self-diagnose and self-isolate. Especially useful during early phase of epidemic when testing capacity is limited.",18
+1,1. PHYSICAL DISTANCING,1_1,1.1 Isolate infected or potentially infected individuals,"Encourage infected or potentially infected individuals to call ahead before visiting doctor or hospital, to allow appropriate biosecurity measures to be put in place.",19
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Require permits, self-declaration forms or letters of authority to leave the house. Sanctions for people without them. Adopted in many countries, including France and Romania.",20
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Restrict reasons for being able to leave the house, e.g. shopping for essentials, exercise, medical needs or essential work in the UK.",21
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Allow demographic groups to leave house on specified days or at specified times, e.g. men and women on alternate days in Peru and Panama.",22
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Use talking drones to encourage people to return home, e.g. in Spain.",23
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Offer raffles or competitions (e.g. on television or radio) with participation only possible when people are most likely to leave home.,24
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Reward people who respect home confinement instructions, e.g. financially or with medals.",25
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Encourage or require working from home for all jobs where possible.,26
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Encourage or require people in non-essential jobs to stop working, if home working is not possible. ",27
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Fine companies for encouraging or forcing people in non-essential jobs to go into work. ,28
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Pay staff to stay at home even when showing no signs of infection.,29
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Support development of home-based enterprises by providing training, seed capital or loans, e.g. in Santa Ana, California, USA.",30
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Increase the amount of calls, texts or data included in domestic telecommunications packages, to encourage people to work or study from home. Implemented by OGERO Telecom, Lebanon.",31
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Subsidize telecommunications packages (e.g. internet access) to encourage people to work or study from home.,32
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Increase internet bandwidth or connection speed, to encourage people to work or study from home. Considering offering this free of charge, e.g. OGERO Telecom, Lebanon.",33
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Encourage people to exercise restraint when using domestic internet connections (e.g. reducing quality of streamed videos), to maintain bandwidth for people who need to work and study at home. Implemented by OGERO Telecom, Lebanon.",34
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Move lectures and teaching to a home-based setting, for instance through greater use of distance and online learning (“virtual schools”) and self-study.",35
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Provide lessons in various formats to facilitate home study for all students, e.g. on TV and radio (not just online) in Japan, Ghana, Madagascar and Côte d’Ivoire.",36
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Develop remote-desktop technology to allow workers and students to connect to work/school computers from home.,37
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Provide employees and students with adequate hardware and software for remote working.,38
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Ensure adequate IT and other technical support to enable remote working or studying.,39
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Encourage use of online systems as much as possible e.g. for personal banking.,40
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Provide virtual reality alternatives to visits outside the home, e.g. virtual museums.",41
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Provide accommodation and support for rough sleepers and those without permanent accommodation.,42
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Provide home-testing kits, self-testing equipment, self-injecting medicines and other home-based medical services to reduce need to visit medical facilities. ",43
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Encourage volunteer community groups to “adopt” healthcare workers, or anyone else whose work requires them to leave home, to assist with groceries, laundry and other essential tasks.",44
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Develop or modify technology platforms to be more accessible and intuitive, to help people who are less comfortable with technology adjust to its increased use during confinement.",45
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Provide additional remote support for people who are less comfortable with technology, e.g. Cibervoluntarios Responde (Cybervolunteers Respond), Spain.",46
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Ensure information is available remotely to isolated groups, e.g. those without internet at home who would normally use library services, or those who don’t speak the official language. ",47
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Provide mental health support for people facing extended periods of confinement. Could help to maximize compliance (alongside health and social benefits).,48
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Encourage people to maintain routines (e.g. keeping alarms set to normal times, maintaining set working hours) during extended periods of confinement, to help maximize compliance.",49
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Clearly explain the consequences of not respecting confinement for self and others.,50
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Advise medically vulnerable individuals, such as the elderly and those with existing medical conditions, to stay at home unless for essential reasons (“shielding”).",51
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,Advise people who live with medically vulnerable individuals to reduce their own movement outside of their house.,52
+1,1. PHYSICAL DISTANCING,1_2,1.2 Increase home confinement across society,"Create lists of people who are medically or socially vulnerable (including disabled people, key workers and those with caring responsibilities) to facilitate them in receiving deliveries (food or medicine) without leaving the house.",53
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,Encourage minimal movement in communities.,54
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,Advise and support all workers who are unable to work from home in minimizing movement and interactions outside of house and work.,55
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,Advise people living with workers who are unable to work from home to minimize movement outside of their home.,56
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,"Limit distance people can move from their home, e.g. 200 m in parts of Italy, 1 km in France in 2020 and 10 km in France in 2021.",57
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,"Add prescriptions on outdoor activity to aid policing, e.g. requirement to keep moving when out for exercise in Belgium.",58
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,"Limit frequency and duration of excursions from house, e.g. for 1 hour, once per day in France.",59
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,"Impose an evening curfew, e.g. in Peru and South Africa.",60
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,"Impose a daily curfew, for example on weekends or specific days when people gather.",61
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,"Discourage or prohibit individuals (e.g. staff, students) from going out to buy lunch.",62
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,"Provide longer prescriptions for people on repeat prescriptions to limit number of trips to pharmacies and hospitals, e.g. extended from 1 month to 3 months in China.",63
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,Prohibit travel to areas where physical distancing is likely to be difficult to maintain.,64
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,"Suspend or reduce public transport services when not needed for essential travel, e.g. during Eid al-Fitr holiday in Egypt.",65
+1,1. PHYSICAL DISTANCING,1_3,1.3 Reduce local movement,Use mobile phone tracking to check if restrictions are being followed.,66
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,Create ways for people to share shopping trips so fewer trips need to be made (e.g. through community groups or one shopper per community).,67
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,Encourage or allow only one person per household out to shop.,68
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,"Increase delivery service from shops, food banks and other providers, e.g. veg box schemes.",69
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,"Improve infrastructure to enable people to obtain groceries, medicines, and other essential goods by delivery, e.g. by recruiting more delivery agents.",70
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,"Where the capacity is available, make home delivery more attractive, e.g. by waiving delivery fee or offering discounts (perhaps just on first order by a customer each week or month).",71
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,Companies who deliver to the hospitality trade convert or expand to home deliveries.,72
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,Encourage or enforce ‘minimum spend’ or ‘minimum number of items’ to encourage people to combine trips to obtain goods.,73
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,"Share surveillance among shops, including CCTV and monitoring for people making excessive visits. ",74
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,"Discourage or restrict people from buying ‘non-essential’ or luxury items, including removing them from stock, limiting their availability or preventing people from only buying them. The definition of ‘non-essential’ may vary over time and space.",75
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,"Create pre-assembled baskets of goods for customers to collect, reducing need to move around shop/marketplace.",76
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,"Improve ease of finding goods in shops, e.g. with maps, beacons or apps.",77
+1,1. PHYSICAL DISTANCING,1_4,1.4 Reduce number and duration of shopping visits,"Avoid rearranging products in shops, especially large-scale movements between aisles or floors.",78
+1,1. PHYSICAL DISTANCING,1_5,1.5 Reduce physical contact,"Avoid physical contact, such as shaking hands, kissing or hugging, outside household members or social bubble.",79
+1,1. PHYSICAL DISTANCING,1_5,1.5 Reduce physical contact,Identify and encourage alternative methods for greeting people that reduce the risk of virus transmission such as ‘elbow bumping’ rather than shaking hands.,80
+1,1. PHYSICAL DISTANCING,1_5,1.5 Reduce physical contact,"Encourage household members to carry out activities involving close contact, such as hairdressing, with guidance provided by a professional via video link.",81
+1,1. PHYSICAL DISTANCING,1_5,1.5 Reduce physical contact,"Create meeting rooms with airtight partitions, e.g. modified containers placed in the courtyards of Dutch care homes to allow safe meetings between residents and family.",82
+1,1. PHYSICAL DISTANCING,1_5,1.5 Reduce physical contact,"Wear disposable gloves if physical contact must be made, to avoid skin-to-skin contact.",83
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Close places of public gathering (e.g. restaurants, shops, parks, workplaces, schools, places of worship), depending upon their importance to society and degree of likely close physical spacing.",84
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Remove, block off or close facilities that encourage groups to form, such as park benches or play equipment.",85
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Close facilities that do not have and use a biosecurity plan.,86
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"If workplaces are still open, close canteens and other non-essential common spaces.",87
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Encourage employees to eat at their own desk, rather than in communal spaces.",88
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"If schools are still open, reduce inter-class and after-school activities, as in Singapore.",89
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Deter mixing at start or end of day, e.g. by staggering hours or discouraging non-essential contact.",90
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Advise people to avoid crowds.,91
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Discourage or ban events where many people gather, e.g. concerts, sports events, markets, conferences and religious ceremonies.",92
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Offer online alternatives to public events, e.g. #PhilharmonicAtHome concerts and online religious lectures in Indonesia.",93
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Offer drive-in alternatives to public events, e.g. concerts, music festivals, film screenings.",94
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Provide and encourage alternatives to voting in person, e.g. postal voting.",95
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Discourage or ban actions that may cause crowds to form, e.g. playing amplified music in public in Bouches-du-Rhône, France.",96
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Use stewards or ushers to prevent crowds from forming, or dissipate them if they do form.",97
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Send public service agents door-to-door, rather than encouraging people to come to a crowded central facility.",98
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Provide information remotely rather than face-to-face, e.g. using notice boards, e-mail, telephone calls or leaflets. ",99
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Minimize face-to-face interactions at work, e.g. meetings, co-working, on the job training and direct supervision.",100
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Use video-calling or voice-calling technology instead of in-person meetings.,101
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Provide virtual reality alternatives to in-person interactions, e.g. robot shop workers in Japan.",102
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Provide automated alternatives to in-person interactions, e.g. bank cashiers replaced by ATMs in Rio Grande do Norte, Brazil.",103
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Ban or discourage cosmetic treatments, e.g. facial beauty treatments, tattoos, piercings.",104
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Offer takeaway options to discourage people from visiting restaurants.,105
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Offer table service only in restaurants.,106
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Require that food is consumed along with alcoholic drinks in bars/restaurants, to avoid alcohol-related breakdown of physical distancing.",107
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Ban consumption of alcohol or other intoxicating substances in public, e.g. at football games in Germany, to avoid breakdown of physical distancing.",108
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Close pubs and bars early each day (e.g. 10 p.m. in UK) to reduce alcohol-related breakdown of physical distancing. Consider that this may encourage unsupervised drinking in the streets or at home, and create close interactions as all customers leave at one time.",109
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Require that drivers wait in car when dropping off or picking up objects or people.,110
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Place items on an isolated table/counter for customers to pick up, rather than delivering directly to customers.",111
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Use robots, drones or driverless vehicles to deliver items, e.g. food within restaurants or from supermarkets, consumer goods, sports trophies during presentations.",112
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Drop-off of groceries outside property, to be brought in by customer later (rather than carrying goods indoors).",113
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Avoid restocking shops when customers are inside the building if it causes congestion.,114
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Avoid picking items for delivery or collection orders during peak times in supermarkets.,115
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Encourage or require use of stairs rather than lifts for those able to do so.,116
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Only allow disabled/elderly people to use lifts.,117
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Discourage or ban walking on escalators.,118
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Encourage use of personal transport (walking, bicycles, scooters, cars) rather than public transport.",119
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Provide extra parking for additional cars and bicycles.,120
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Offer free bicycles to reduce the use of public transport, e.g. in London, UK.",121
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Widen/install new bike lanes to make cycling a more attractive transport options (and expand space available), e.g. Berlin, Germany and Paris, France.",122
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Lower speed limits to encourage walking/cycling rather than use of public transport (pedestrians/cyclists feel safer).,123
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Prohibit motorcycles or similar small vehicles from carrying passengers, e.g. in Rwanda.",124
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Limit or prohibit standing on public transport, e.g. in Malta.",125
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,Avoid sharing bedrooms (except for individuals from same household).,126
+1,1. PHYSICAL DISTANCING,1_6,1.6 Avoid situations that involve close interactions,"Phase in spacing methods, e.g. by initially only opening public spaces at less popular times and with stringent conditions.",127
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Encourage people to observe physical distancing, with effective messaging.",128
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Use clear, colourful markings on the ground to space people out (e.g. grid to show where to eat lunch or spaces in queues). Tactile markings would include people with limited vision.",129
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Mow grass in a checkerboard of short and long patches, e.g. garden in Elblag, Poland. People occupy short patches and leave long patches empty.",130
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,Employ dedicated staff to help people observe physical distancing in queues and enforce norms where necessary.,131
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Use apps or other devices to detect when individuals break physical distancing guidelines and emit a warning signal, e.g. Bluetooth®-based 1point5 app https://onepointfive.app/ and echolocation-based Sunu Band https://www.sunu.com.",132
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,Fine people who do not maintain physical distancing.,133
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,Send off sports players who do not maintain physical distancing.,134
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Reward people who maintain physical distancing, e.g. financially or with medals.",135
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Maintain gaps between workspaces, e.g. only opening every second checkout, increasing space between desks in open plan offices.",136
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,Move tables (e.g. in restaurants) further apart.,137
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Provide “bumper tables”, where user stands in centre of table on wheels.",138
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,Provide wearable items that mark out safe distances between individuals e.g. pool-noodle hats or personal laser projectors.,139
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Deliver items on long wooden planks, e.g. within restaurants in the Netherlands.",140
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Increase spacing on escalators, e.g. paint out alternate steps with steps shared only by people from the same household. ",141
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,Increase the number and/or size of access points to reduce congestion.,142
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Separate walkers, runners and cyclists.",143
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,Remove standing options at public events; audience/spectators must be seated.,144
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Block out alternate seats or alternate rows of seats, e.g. with signs, tape, mannequins or stuffed toys.",145
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Restrict groups of seats (e.g. around a table on trains or coaches, or in bars), to social groups (e.g. households or bubbles).",146
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,Alternate seats on each side of narrow tables (i.e. avoid seats directly opposite each other).,147
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Encourage people to leave spaces between themselves, e.g. on public transport.",148
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,Block out seats close to driver (e.g. front few rows) of public transport.,149
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"If seats are pre-booked (e.g. on planes or in theatres), distribute individuals and groups to optimize spacing.",150
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Fill space using a system that minimizes close interactions, e.g. fill window seats before aisle seats, or fill planes from back to front rather than by zones or by passenger status.",151
+1,1. PHYSICAL DISTANCING,1_7,1.7 Maintain or increase physical spacing,"Alternate distancing when purchasing items, e.g. customer approaches counter with items while assistant distant, then customer backs off while items are scanned, then assistant backs off while customer pays and takes items.",152
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Set upper limit for number of people allowed in premises, e.g. no more than 50 people at a time in restaurants, churches and cinemas in South Africa.",153
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,Set upper limit for number of people using a lift at one time e.g. one person or household or one person in each corner if large lift.,154
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,Reduce class sizes in schools.,155
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Prohibit parents from entering schools, e.g. in Denmark.",156
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Reduce prison population by managing new entries and/or releases. For example, in the Netherlands, people convicted of minor offences were not brought to court and low-risk prisoners were allowed to stay at home under electronic monitoring.",157
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Reduce number of players on sports teams, e.g. 7-vs-7 rather than 11-vs-11 football in Vermont, USA.",158
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Restrict capacity on public transport, e.g. limiting flights to/from China to 75% capacity.",159
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Limit number or type of people at essential events such as weddings or funerals. In Australia, 5 people for a wedding, 10 for a funeral. In Kenya, 15 close family members at a funeral. Encourage people to send wishes and condolences via social media instead.",160
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,Limit group sizes for people not from the same household or social bubble in public.,161
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Only allow single individuals at one time to use public spaces (such as a shop), except where assistance is needed.",162
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Limit the number of accompanying persons, e.g. when shopping or attending a doctor’s appointment.",163
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,Set security access pass system or QR codes to limit numbers.,164
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Use security personnel, or designated staff members, to monitor numbers inside a space, and limit access when necessary.",165
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,Use an entry and exit ticket system with barriers similar to those operated in car parks.,166
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Use an entry and exit system where people must swipe in and out, e.g. with ID cards or tokens.",167
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Design system so doors automatically shut once numbers exceed a given threshold, e.g. detected by phone signals.",168
+1,1. PHYSICAL DISTANCING,1_8,1.8 Limit number of people in a location,"Restrict activities that can be carried out in public places to reduce the number of people there, e.g. beaches in Rio de Janeiro, Brazil, can only be used for sport/exercise and not for sunbathing.",169
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Extend opening hours, e.g. of supermarkets.",170
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Run activity for longer, e.g. increase canteen hours, allow early voting.",171
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Repeat events, e.g. church services, seminars, film screenings.",172
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Require pre-booking of time slots to use or enter facilities, e.g. supermarkets, golf courses, parks, museums, tourist attractions, football stadiums.",173
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Require appointments for use of services, e.g. doctors or hairdressers, to avoid crowds forming at peak times.",174
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Stagger start and finish times of users, staff or students, so they are not all using entrances or exits at the same time.",175
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,Stagger activities such as lunch breaks.,176
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Divide into groups and rotate use of shared space, e.g. office staff alternate attendance, students attend classes every two or three weeks. Use verifiable groups such as first letter of surname, identity card number, house number (e.g. odd/even), car registration number, social group (e.g. families with children, retired individuals).",177
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Limit time inside shared space, e.g. 30-minute shopping visits in Mauritius. Consider that this might result in more frequent visits.",178
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Individuals queue online and are told when their turn is to leave house, office or desk, e.g. for doctor’s appointment or lunch.",179
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Individuals queue in car: they text the facility they want to use, sit in car, then get an alert when it is their turn to go inside. Trialled for supermarkets in New Zealand.",180
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Use cellphone signals, WiFi, GPS, Bluetooth® or similar technology to detect congested areas (e.g. roads, shops or exercise areas) and share this information with users.",181
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Provide live video/webcam feeds that allow assessment of spacing, e.g. showing how many people are in the coffee room or in each train carriage.",182
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Use an automated system to direct individuals to less-occupied spaces, e.g. to distribute train passengers amongst carriages (already available in many countries, e.g. UK and Germany).",183
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Advise people to travel at off-peak times, if possible.",184
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Offer financial incentives to travel at off-peak times, e.g. reduced fares.",185
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Standardize fares across transport services or operators, to avoid crowding on cheaper options.",186
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Advise people to wait for next service if physical distancing cannot be maintained on first available bus, train etc.",187
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Provide live announcements on spacing, e.g. how crowded the canteen is.",188
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Discourage lingering in popular locations, e.g. viewpoints, photo spots, school gates.",189
+1,1. PHYSICAL DISTANCING,1_9,1.9 Spread out use of shared space,"Run election/polling days on public holidays, so people can visit polling stations throughout the day. This avoids congestion before and after working hours.",190
+1,1. PHYSICAL DISTANCING,1_10,1.10 Expand space available,"Use a larger room, e.g. for meetings.",191
+1,1. PHYSICAL DISTANCING,1_10,1.10 Expand space available,"Provide larger facilities, e.g. tables for eating.",192
+1,1. PHYSICAL DISTANCING,1_10,1.10 Expand space available,"Make existing facilities larger, e.g. widen aisles in shops, pavements, bike lanes.",193
+1,1. PHYSICAL DISTANCING,1_10,1.10 Expand space available,"Increase the number of facilities available, e.g. eating areas, changing rooms, train carriages, entry/exit gates.",194
+1,1. PHYSICAL DISTANCING,1_10,1.10 Expand space available,"Provide access to alternative spaces (e.g. museums, art galleries, playing fields, golf courses, farms) to reduce demand on popular, crowded alternatives. Access may be free, but there may need to be some compensation to the owners or neighbours.",195
+1,1. PHYSICAL DISTANCING,1_10,1.10 Expand space available,Incentivize well-managed access to private land for local communities.,196
+1,1. PHYSICAL DISTANCING,1_10,1.10 Expand space available,"Create an online platform to enable use of nearby unused gardens or open space, especially where these are limited.",197
+1,1. PHYSICAL DISTANCING,1_10,1.10 Expand space available,"Exclude traffic from certain roads, so that they can be used for exercise and recreation and to facilitate physical distancing while walking/cycling.",198
+1,1. PHYSICAL DISTANCING,1_10,1.10 Expand space available,Remove distinctions between first and economy class seats on public transport as a quick way of increasing capacity. ,199
+1,1. PHYSICAL DISTANCING,1_11,1.11 Reduce counterflow interactions,"Delineate one-way routes around buildings, shops, exercise routes and other spaces using arrows and barriers.",200
+1,1. PHYSICAL DISTANCING,1_11,1.11 Reduce counterflow interactions,Encourage or require walking in one direction (e.g. clockwise) around shared spaces.,201
+1,1. PHYSICAL DISTANCING,1_11,1.11 Reduce counterflow interactions,"Encourage or require walking on one side of paths, pavements or sidewalks (the precise measure may depend on local traffic rules or social norms).",202
+1,1. PHYSICAL DISTANCING,1_11,1.11 Reduce counterflow interactions,"Pass people coming in the opposite direction in single file, e.g. along a footpath or pavement.",203
+1,1. PHYSICAL DISTANCING,1_11,1.11 Reduce counterflow interactions,"If there are two staircases in a building, consider making one up and one down.",204
+1,1. PHYSICAL DISTANCING,1_11,1.11 Reduce counterflow interactions,Clearly separate entrances and exits (but consider how this impacts flow outside). ,205
+1,1. PHYSICAL DISTANCING,1_11,1.11 Reduce counterflow interactions,At congested entry points give directions for users to alternate who goes next from a physically-distanced queue on each side.,206
+1,1. PHYSICAL DISTANCING,1_11,1.11 Reduce counterflow interactions,"Allocate time slots for entry/exit, to avoid the two occurring simultaneously.",207
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,"Ask people to identify, and as much as possible stay within, their bubble: everyone they live with or must have regular contact with. Could be informed by social media. Advice given in many countries, including New Zealand.",208
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,Allow individuals or groups (e.g. students) to choose to be part of a more risk-averse bubble.,209
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,"Provide separate facilities for infected or potentially infected individuals, e.g. separate rooms or buildings for testing.",210
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,"Retain the same members sharing spaces, e.g. teams at work, production lines, shifts, classes in schools, sports teams.82 Each team can be isolated if a member becomes infected.",211
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,Alternate presence and virtual learning in schools to be able to limit intergroup mixing and maintain physical distance in small school buildings.,212
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,"Avoid or discourage sharing spaces, such as cars, except with usual contacts.",213
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,Designate a time period (e.g. 10 a.m. to 12 p.m.) in which only vulnerable people can leave their houses.,214
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,Encourage vulnerable individuals to visit shared areas early in the day (especially if cleaned overnight) or at other low use times.,215
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,Create a special period for vulnerable individuals or key workers to shop.,216
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,Prioritize vulnerable individuals or key workers for ‘click and collect’ or delivery.,217
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,"Encourage people that can shop in store to do so, to free up delivery slots for vulnerable individuals or key workers.",218
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,Organize distribution times of food or social grants so people who live near each other collect at a similar time.,219
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,"Restrict public transport to specified groups, e.g. key workers.",220
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,"Where present, use doors away from staff for entry/exit of public transport and keep passengers away from staff (e.g. disable front doors on buses).",221
+1,1. PHYSICAL DISTANCING,1_12,1.12 Limit intergroup mixing ,"Focus on constraining ‘long’ connections between people in different social groups who seldom or rarely interact (e.g. people with a shared interest, work visitors) rather than short connections between people in similar social groups who regularly interact with one another (e.g. close family, colleagues, close friends).",222
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_1,2.1 Use solid physical barriers,"Install transparent screens, e.g. between cashier and customer in shops, or between driver and passenger in public vehicles, between seats on buses or trains, between contestants on gameshows.",223
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_1,2.1 Use solid physical barriers,Add signs to remind people to remain behind barriers and not move to speak around them.,224
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_1,2.1 Use solid physical barriers,"Encourage use of clear visors or goggles where appropriate, perhaps in addition to masks.",225
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_1,2.1 Use solid physical barriers,Hug through a plastic sheet or “cuddle curtain”.,226
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_1,2.1 Use solid physical barriers,"Enclose each member of a crowd in a personal plastic bubble, e.g. at concerts. Consider how to regulate temperature and air supply to make this safe.",227
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_1,2.1 Use solid physical barriers,"Erect compartments to separate groups in settings like restaurants, parks and beaches.",228
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Encourage or require masks to be worn in specific, high-risk areas such as supermarkets, public transport and schools.",229
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,Encourage or require masks to be worn in general areas such as city centres.,230
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Fine or punish people for not wearing masks when required, e.g. imprisonment in Kuwait.",231
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Provide a badge or card to those who cannot, for whatever reason, wear face masks. This allows social identification of non-compliers without a valid reason.",232
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Use talking drones to encourage people to wear face masks, e.g. in China.",233
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,Reward people for wearing masks when required.,234
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Get famous, high-profile or respected people to pose in face masks to show an example.",235
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,Trim beard close to face to improve fit of mask.,236
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Make mask-wearing fun for children, e.g. through role play as doctors or nurses, caring for a “sick” stuffed toy.",237
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,Encourage children to decorate their face masks.,238
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Provide free face masks to all residents, e.g. in Singapore.",239
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Provide free face masks to employees, e.g. in France.",240
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,Provide face masks on entry to premises and facilities for safe disposal of masks on exit.,241
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Provide public information and training on the safe and effective application, wearing, removal, cleaning and disposal of face masks and other personal protective equipment.",242
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,Use face recognition technology that works without needing to remove or pull down mask.,243
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Ensure high standards of consumer protection against the mis-selling of inadequate, overpriced or inappropriate facemasks and other personal protective equipment.",244
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Require a minimum standard or quality of face masks, appropriate to the context. Consider that this may discourage individuals from wearing ‘substandard’ masks.",245
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,Disinfect high-quality face masks to allow re-use where supplies are limited.,246
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,Prioritize the supply of (high-quality) face masks to key workers.,247
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_2,2.2 Increase effective use of face masks,"Prioritize the supply of (high-quality) face masks to vulnerable groups, including those who may not be able to afford them.",248
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_3,2.3 Increase ventilation or airflow,"Open windows when indoors or in vehicles, ideally for a few minutes before use.",249
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_3,2.3 Increase ventilation or airflow,Install new windows or doors.,250
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_3,2.3 Increase ventilation or airflow,Make existing windows or doors larger.,251
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_3,2.3 Increase ventilation or airflow,"Create cross ventilation rather than single side ventilation, e.g. by opening windows on opposite sides of a room rather than all on one side.",252
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_3,2.3 Increase ventilation or airflow,Place pedestal fan next to open window to increase air movement.,253
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_3,2.3 Increase ventilation or airflow,"Use fans to increase air mixing within a room, to avoid pockets of stagnant air.",254
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_3,2.3 Increase ventilation or airflow,Install extractor fans or other mechanical ventilation systems.,255
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_3,2.3 Increase ventilation or airflow,"Hold events or carry out activities outdoors where possible, e.g. restaurant dining, school lessons, concerts, queuing.",256
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_3,2.3 Increase ventilation or airflow,"Use surface transport such as buses or trains rather than underground transport, which is more difficult to ventilate.",257
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_3,2.3 Increase ventilation or airflow,"Use CO2 monitors to warn room occupants when air becomes stagnant, so they can take appropriate corrective action. ",258
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_4,2.4 Clean or modify use of ventilation systems,Keep buildings well ventilated to reduce need for recirculating air conditioning systems.,259
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_4,2.4 Clean or modify use of ventilation systems,Ensure ventilation rates are adequate for the number of people in a room or building.,260
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_4,2.4 Clean or modify use of ventilation systems,Disable automatic demand control ventilation if this is leading to inadequate ventilation rates.,261
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_4,2.4 Clean or modify use of ventilation systems,Ensure air conditioning has an effective filtration system.,262
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_4,2.4 Clean or modify use of ventilation systems,Ensure air flow in buildings is from clean to dirty areas.,263
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_4,2.4 Clean or modify use of ventilation systems,Regularly clean and maintain air conditioning ventilation systems. ,264
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_4,2.4 Clean or modify use of ventilation systems,Open exhaust vents on air conditioning systems to avoid recirculating air.,265
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_4,2.4 Clean or modify use of ventilation systems,Ensure that air conditioning exhaust vents are located away from public areas.,266
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_4,2.4 Clean or modify use of ventilation systems,Ensure that air conditioning exhaust vents cannot feed in through open windows.,267
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,"When working close to others, stay back-to-back or side-to-side rather than face-to-face.",268
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,"In shared accommodation, arrange beds so that individuals lie toe-to-toe or head-to-toe.",269
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,"When exercising close to others, avoid slipstreaming.",270
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,"Avoid live singing or chanting, especially in large groups.",271
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,"Avoid screaming or shouting, e.g. on rollercoasters.",272
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,"Avoid playing wind instruments, which produce aerosols, in groups.",273
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,"Avoid (unnecessary) eating or drinking in confined spaces, e.g. on public transport in UK.",274
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,"Avoid (unnecessary) talking in confined spaces, e.g. on public transport in Japan.",275
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,Avoid smoking in confined spaces.,276
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,"Reduce noise, e.g. background music in bars, to avoid need to raise voice or move closer when talking.",277
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,"Encourage people having a conversation to stand along one side of a footpath or corridor, rather than talking across it.",278
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,Put down toilet seat cover before flushing to contain aerosols; fit covers where missing.,279
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_5,2.5 Avoid behaviours that could transmit virus through air,"Replace air hand dryers, which can aerosolize microorganisms from poorly washed hands, with paper towels.",280
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_6,2.6 Reduce time in shared space,"Shorten events when people will be sharing space, e.g. sermons in Aceh, Indonesia.",281
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_6,2.6 Reduce time in shared space,"Where public transport is operating, reduce hours (e.g. move to Sunday timetable) to reduce duration of contact for staff. Consider that this may increase the number of passengers per vehicle.",282
+2,2. REDUCE TRANSMISSION THROUGH AIR,2_6,2.6 Reduce time in shared space,"Allow dine-in customers to pre-order, to minimize time spent in restaurant. ",283
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_1,3.1 Remove objects requiring physical contact,"Remove objects likely to be touched by multiple individuals, especially those that are difficult to clean (e.g. water dispensers, public seating, fingerprint scanners, magazines in aircraft, menus, condiment containers). ",284
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_1,3.1 Remove objects requiring physical contact,"Close or turn off facilities that encourage multiple contacts, e.g. water fountains in Windsor, Canada.",285
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_1,3.1 Remove objects requiring physical contact,"Remove or prop open doors and gates, both indoors and outdoors, to reduce the need to touch handles.",286
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_1,3.1 Remove objects requiring physical contact,Encourage customers to remove lid from reusable food container (e.g. coffee cup) before giving it to server.,287
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_2,3.2 Replace objects requiring physical contact with contactless options,"Offer single-use, disposable or electronic replacements, e.g. magazines and menus available as electronic documents, receipts sent by e-mail or SMS rather than being printed.",288
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_2,3.2 Replace objects requiring physical contact with contactless options,"Replace physical contact with voice recognition (e.g. for self-checkouts, ticket machines, gym equipment) or face/iris recognition (e.g. for doors, ATMs).",289
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_2,3.2 Replace objects requiring physical contact with contactless options,"Replace physical contact with phone apps, e.g. for card payments, ordering in restaurants, calling and directing elevators, signing for packages.",290
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_2,3.2 Replace objects requiring physical contact with contactless options,"Replace physical contact with light or pressure sensors, e.g. on doors, taps, soap dispensers, toilet flush, hand dryers, pedestrian crossings.",291
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_2,3.2 Replace objects requiring physical contact with contactless options,Replace systems requiring physical contact with automated systems running on timers.,292
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_2,3.2 Replace objects requiring physical contact with contactless options,"Allow courier to take photo of delivery at address showing the door opened, instead of signing for receipt of packages. Already in place for most courier companies in the UK.",293
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_2,3.2 Replace objects requiring physical contact with contactless options,Install wireless charging for appliances and electric vehicles.,294
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_2,3.2 Replace objects requiring physical contact with contactless options,Replace bins with lids in public spaces with open bins.,295
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_2,3.2 Replace objects requiring physical contact with contactless options,"Replace kettles, coffee pots and other drink dispensers with automated machines.",296
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_2,3.2 Replace objects requiring physical contact with contactless options,"Offer virtual fitting solutions for objects like clothes or glasses, e.g. using apps/online tools or based on body scans.",297
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_3,3.3 Increase use of contactless payment,"Install hardware or software that allows contactless payments, including through phones.",298
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_3,3.3 Increase use of contactless payment,"Inform customers that contactless payment is possible and preferred, e.g. with clear signage.",299
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_3,3.3 Increase use of contactless payment,"Increase maximum allowance for contactless payments, as done in Estonia.",300
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_3,3.3 Increase use of contactless payment,Remove fee (if present) for minimum payment by contactless.,301
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_3,3.3 Increase use of contactless payment,Increase maximum number of contactless card payments each customer can make per day.,302
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_3,3.3 Increase use of contactless payment,"Enable small outlets to take payments over the phone (some banks are reluctant to allow this), for example to allow customers to collect goods outside.",303
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Switch from self-service options (e.g. buffets, salad bars, drink stations) to table service.",304
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Stack products on shelves with labels and barcodes facing outwards, so information (e.g. nutritional content, allergens) is visible without handling.",305
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Present barcodes or QR codes on shelf labels so customers can obtain information (e.g. nutritional content, allergens) without having to handle products.",306
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Encourage use of ‘Scan and Go’ technology in shops, whereby items are scanned and directly bagged by the customer. Consider use of personal mobile phones as scanners.",307
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,Ask customers to scan their own items at checkouts.,308
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Print barcodes on all items in shops (e.g. carrier bags, fresh bread, fruit and vegetables) to enable them to be scanned at self-service checkouts rather than selected on touch screens.",309
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,Position bar codes so the cashier does not have to touch goods when scanning.,310
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,Extend conveyor belt in supermarkets to move goods towards customers without the cashier pushing them.,311
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,Make contactless payment the default option at self-checkouts (avoids need to touch screen to select option).,312
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Install automatic cash acceptors/dispensers at checkouts, to avoid need for cashier to handle cash.",313
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,Remove self-packaging options when purchasing food by pre-packaging at production stage (e.g. for fresh bread and vegetables).,314
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,Modify supermarket trolleys so they are no longer coin-operated.,315
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Use messaging to reduce unnecessary touching, e.g. “touch it and take it” rule in shops.",316
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,Provide a ‘reject’ bin for mouldy/broken items once touched.,317
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,Carry potentially contaminated items (e.g. recently purchased shopping) in bags/baskets/buckets rather than close to the body.,318
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Place all rubbish, such as waste after eating, straight into a bin rather than leaving it for someone else to clear up.",319
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Encourage proper disposal of contaminated items such as tissues, gloves and face masks in sealed and leak-proof garbage bags.",320
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Delivery drivers avoid touching goods: they are placed in receptacles by warehouse/restaurant staff, then removed from those receptacles by customer.",321
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Encourage people to sit down on public transport, to reduce need to use handholds.",322
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_4,3.4 Modify or design systems to reduce contact,"Require that passengers or customers pay with exact change if paying with cash, e.g. on public transport in Malta.",323
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_5,3.5 Reduce shared contact of objects or areas,"Have only a single person touching objects normally touched by many, e.g. a member of staff to refuel cars to prevent multiple handling of petrol pumps. ",324
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_5,3.5 Reduce shared contact of objects or areas,"Create convention that different people touch different areas of objects, for example design refuse bins so collectors touch different areas from householders (e.g. centre element of handle red and marked “do not touch” or designed with separate handle).",325
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_5,3.5 Reduce shared contact of objects or areas,"Shorten production lines where feasible, or fix working relationships so that each individual in a production line only has to interact with a limited number of colleagues. For instance assign the same individual to production and packaging or always have one worker package another worker’s produce.",326
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_5,3.5 Reduce shared contact of objects or areas,"Provide each team or group with their own communal facilities (e.g. tables, washbasins or washrooms, kitchens, communal rooms).",327
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_5,3.5 Reduce shared contact of objects or areas,"Remove unnecessary food packaging as soon as possible after purchase, and dispose of (ideally in a lidded waste bin). Replace with clean packaging if necessary.",328
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_5,3.5 Reduce shared contact of objects or areas,"Discourage use of personal utensils, such as forks or chopsticks, when taking food from communal dishes.",329
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_6,3.6 Increase sole use of items,"Encourage individuals to use their own rather than shared items, e.g. tools, staplers, water bottles instead of glasses, hand towels.",330
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_6,3.6 Increase sole use of items,"Encourage individuals to bring and use their own pen, e.g. to sign for delivered goods, in polling stations, or to sign forms in vaccination centre.",331
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_6,3.6 Increase sole use of items,Encourage workers to bring their own food and pre-prepare items before coming to work.,332
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_6,3.6 Increase sole use of items,"Do not provide communal utensils for eating or drinking in the workplace, unless they can be properly cleaned between uses.",333
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_6,3.6 Increase sole use of items,"Allocate individuals to specific facilities, e.g. desks, sinks, showers. Avoid hot-desking.",334
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_6,3.6 Increase sole use of items,"Ban use of shared items in public places, such as prayer rugs and shisha pipes.",335
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_6,3.6 Increase sole use of items,"Ban exchange of recently used items, such as football shirts after matches.",336
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_7,3.7 Minimize reuse of objects,"Provide disposable cups, cutlery and plates (as long as these can be disposed of safely).",337
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_7,3.7 Minimize reuse of objects,"Stop customers from using their own, reusable food containers, e.g. in Starbucks across Europe, Middle East and Africa.",338
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_7,3.7 Minimize reuse of objects,"Ban use of reusable shopping bags, e.g. in California.",339
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_7,3.7 Minimize reuse of objects,"Suspend or postpone plastic bag bans or charges in grocery stores, to discourage use of reusable shopping bags, e.g. in the USA.",340
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_7,3.7 Minimize reuse of objects,Make single-use bags mandatory for home deliveries.,341
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_7,3.7 Minimize reuse of objects,Waive single-use bag charge for home deliveries.,342
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_7,3.7 Minimize reuse of objects,Replace whiteboard erasers in classrooms or offices with disposable wipes.,343
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_8,3.8 Use tools to avoid skin-to-object contact,"Use tools, such as tongs to pick up shopping and probes to enter PIN. Tools ideally designed to be multifunctional. Tool decontamination available at entry and exit.",344
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_8,3.8 Use tools to avoid skin-to-object contact,Use a personal pointer when touching shared screens instead of fingertips.,345
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_8,3.8 Use tools to avoid skin-to-object contact,"Provide gloves before using common facilities, such as petrol pumps and upon entry to shops. Provide bins to correctly dispose of gloves at end of use. ",346
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_8,3.8 Use tools to avoid skin-to-object contact,"Wear gloves during cooking and preparation of food, especially when handling raw produce.",347
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_8,3.8 Use tools to avoid skin-to-object contact,"Use paper towel to turn off tap after washing hands, rather than touching tap directly.",348
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_8,3.8 Use tools to avoid skin-to-object contact,Eat with utensils rather than fingers.,349
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_8,3.8 Use tools to avoid skin-to-object contact,Cover objects that require shared contact (e.g. eyepieces on microscopes) with cling film and replace between users.,350
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_8,3.8 Use tools to avoid skin-to-object contact,"Use a sponge or wet cloth to seal gummed envelopes, rather than licking them.",351
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_9,"3.9 Reduce touching with hands, fingers or palms","Use an elbow or back rather than hands to push heavier items, such as doors.",352
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_9,"3.9 Reduce touching with hands, fingers or palms","Redesign or adapt objects to allow operation with feet or elbows, e.g. hand sanitizer dispensers, water dispensers, taps, bins, gates, doors, in-store customer surveys. Could use 3D-printed parts (e.g. https://www.materialise.com/en/hands-free-door-opener).",353
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_9,"3.9 Reduce touching with hands, fingers or palms","Redesign or adapt objects to allow operation with (clothed) forearms, e.g. replace round knob-style door handles with lever handles.",354
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_9,"3.9 Reduce touching with hands, fingers or palms","Where hand contact is unavoidable (e.g. for doorbell or PIN keypad), use a finger joint rather than fingertip to touch objects.",355
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_9,"3.9 Reduce touching with hands, fingers or palms","Where hand contact is unavoidable (e.g. for doorbell or PIN keypad), use non-dominant hand to touch objects.",356
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_10,3.10 Use safer surfaces,"Add copper surfaces to communal/public spaces, especially in high-touch locations.",357
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_10,3.10 Use safer surfaces,Use paper instead of plastic bags.,358
+3,3. REDUCE TRANSMISSION THROUGH CONTAMINATED ITEMS OR SURFACES,3_10,3.10 Use safer surfaces,"Coat surfaces with anti-microbial, water-repellent and/or oil-repellent substances.",359
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Encourage regular, effective hand cleaning.",360
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,Encourage or require hand cleaning on arrival to and departure from a new location. ,361
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,Encourage or require hand cleaning before and after dealing with potentially contaminated items.,362
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,Encourage or require hand cleaning before and after eating.,363
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,Encourage hand cleaning before putting on or taking off face masks.,364
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Provide hand-washing facilities at entrances, exits and at areas of potential contamination.",365
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Provide alcohol-based hand sanitizers at entrances, exits and at areas of potential contamination (including on public transport).",366
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Move hand-cleaning facilities into more convenient positions, e.g. in centre rather than at side of corridor or doorway.",367
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Increase visibility of hand-cleaning facilities, e.g. by adding flashing lights.",368
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,Provide low-tech hand-cleaning stations in low-resource communities.,369
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Improve access to soap and water, or hand sanitizer, to those who lack access to basic hand-washing facilities. For example, the government of Ghana absorbed the cost of citizens’ water bills and arranged water tanker deliveries.",370
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Provide free soap or sanitizer to key workers and volunteers, such as bin collectors and delivery drivers, to encourage regular hand cleaning.",371
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Replace cheap soap or hand sanitizers with high quality, moisturizing handwash (to encourage regular hand washing).",372
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,Ensure hand cleaning facilities are regularly restocked or refilled.,373
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Provide training on effective hand cleaning, accepting varying guidance.",374
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Provide information on effective hand cleaning, accepting varying guidance.",375
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,Use signage in bathrooms that communicates the risks of not washing hands.,376
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,Use simple signage to remind people to regularly clean their hands (not necessarily with any information on how to do so).,377
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Monitor people during hand cleaning to ensure they are doing it effectively. This could be done, for example, in person or via cameras.",378
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Provide feedback on hand cleaning performance, to individuals or groups.",379
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"If a tap is programmed to run only for a set period of time, ensure that time is long enough to allow thorough hand washing. Extending the time also reduces the need to press tap again mid-wash.",380
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,Ensure that tap water temperature is not too hot so that hands can be held under whilst washing. ,381
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,"Replace separate taps with a single mixer tap, to allow user to adjust water temperature.",382
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,Ensure sinks are deep enough to facilitate effective hand-washing and to avoid accidental touching of the sink while washing hands.,383
+4,4. ENHANCE CLEANING AND HYGIENE,4_1,4.1 Improve hand hygiene practice,Remind individuals to avoid touching other items or their face during use of communal hand- cleaning facilities. Only touch items/face once hand cleaning is complete.,384
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Encourage people to avoid touching their face.,385
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Use vibrating band on wrist or elbow (e.g. https://www.elbaware.nz/) to discourage face touching.,386
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Use computer application (e.g. https://donottouchyourface.com/) to discourage face touching.,387
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,"Treat conditions that may trigger face touching, e.g. itchy skin or dry eyes.",388
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Clean hands thoroughly before and after touching face.,389
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,"Use tools, such as tissues, when scratching an itch on face.",390
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Use sleeve rather than hands to touch face.,391
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Discourage spitting in public places.,392
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,"Discourage use of saliva on sports balls, e.g. cricket balls and baseballs.",393
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,"Sneeze or cough into shoulder or elbow, rather than hand.",394
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,"Carry tissues and place them in a bin after coughing, sneezing, or wiping face, rather than using clothing or handkerchiefs.",395
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,"Use tissues only once, before throwing away.",396
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Increase the number of waste bins available for disposing of tissues in public places.,397
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Facilitate washing and/or disposal of face masks after use. ,398
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Offer personal protective equipment in vending machines.,399
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Use condoms or dental dams during intimate activities.,400
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,"Encourage people to shower upon returning home (particularly healthcare workers, bus drivers, shop workers, etc.).",401
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,"Increase the availability of shower facilities at the workplace (particularly for healthcare workers, bus drivers, shop workers, etc.).",402
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Disinfect shoes in a foot bath when moving between buildings/rooms.,403
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Install and use alcohol nebulizers in public places.,404
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,"Restrict activities to workers who have passed a test of their knowledge of hygiene, as in the Finnish system of Hygiene Passports.",405
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,Make people sign a commitment to good hygiene practices.,406
+4,4. ENHANCE CLEANING AND HYGIENE,4_2,4.2 Improve other aspects of personal hygiene,"Provide personal hygiene advice in print and broadcast media, via public announcement systems and social media, or through community health workers.",407
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,"Regularly clean high-risk objects, touched frequently by many different people, e.g. taps, petrol pumps, door handles, pin machines, self-service touch screens, shopping trolleys, handrails, desks, keyboards, door handles, printers, water coolers, toys, mobile phones, braille signs.",408
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,"Regularly clean high-risk areas, used frequently by many different people, e.g. canteen, toilet and washroom areas, playgrounds. ",409
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,Ensure surfaces are visibly free of dirt before disinfecting them.,410
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,"Sterilize areas that have been in contact with raw food products, which may be contaminated.",411
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,Use disposable wipes to clean shared surfaces and facilities before use.,412
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,Provide facilities for safe disposal of used wipes.,413
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,"Encourage or require people to carry their own disinfectant to routinely use before touching shared objects, such as door handles.",414
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,"Provide disinfectant in/near high-risk locations such as card machines, door entry systems, toilets, communal kitchens.",415
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,Provide free disinfectant sprays and refilling stations.,416
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,"Make the spaces on public transport and other shared spaces easier to rapidly disinfect or wipe down, for example by using non-absorbent materials.",417
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,"Spray outdoor spaces and vehicles with disinfectant, from drones or aircraft.",418
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,Reduce the hours that shops and public transport are open to enable deep cleaning.,419
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,Deep clean any areas used by people who report COVID-19 symptoms.,420
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,"Provide clear guidance on effective ways of cleaning at home (including which disinfectants are already available at home, how to create home-made disinfectants, and which solutions are not effective).",421
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,"Create clear industry standards and expectations regarding disinfectant use in hotels, take-away restaurants, etc.",422
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,Clean packaging like cans before storing or opening.,423
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,Wash unpackaged produce (e.g. fruit and vegetables) thoroughly under running water before consumption.,424
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,"Thoroughly wash reusable items, such as mugs or straws, between uses.",425
+4,4. ENHANCE CLEANING AND HYGIENE,4_3,4.3 Improve cleaning practice,"Thoroughly clean or wash second-hand items (e.g. from thrift stores, garage sales or online auctions) before use.",426
+4,4. ENHANCE CLEANING AND HYGIENE,4_4,4.4 Improve laundry practice,"Change and wash clothing on returning home or after possible contamination (particularly for healthcare workers, bus drivers, shop workers, etc.).",427
+4,4. ENHANCE CLEANING AND HYGIENE,4_4,4.4 Improve laundry practice,Avoid shaking dirty laundry before washing to reduce the possibility of dispersing virus through the air.,428
+4,4. ENHANCE CLEANING AND HYGIENE,4_4,4.4 Improve laundry practice,"Wash and dry laundry bags, or disinfect basket.",429
+4,4. ENHANCE CLEANING AND HYGIENE,4_4,4.4 Improve laundry practice,Wash laundry at an appropriate temperature and with an appropriate amount of detergent.,430
+4,4. ENHANCE CLEANING AND HYGIENE,4_4,4.4 Improve laundry practice,Dry laundry completely before wearing.,431
+4,4. ENHANCE CLEANING AND HYGIENE,4_4,4.4 Improve laundry practice,"Fold laundry at home, rather than in public places such as a launderette.",432
+4,4. ENHANCE CLEANING AND HYGIENE,4_4,4.4 Improve laundry practice,Support people whose access to clothes washing facilities may be limited due to economic situation or lockdown regulations.,433
+4,4. ENHANCE CLEANING AND HYGIENE,4_4,4.4 Improve laundry practice,"Dry laundry outdoors, in sunlight, where possible.",434
+4,4. ENHANCE CLEANING AND HYGIENE,4_5,4.5 Use ultraviolet (UV) radiation for disinfection,"Disinfect objects such as post, money, phones or keys with UV-C.",435
+4,4. ENHANCE CLEANING AND HYGIENE,4_5,4.5 Use ultraviolet (UV) radiation for disinfection,Disinfect food surfaces with UV-C.,436
+4,4. ENHANCE CLEANING AND HYGIENE,4_5,4.5 Use ultraviolet (UV) radiation for disinfection,Disinfect high-touch surfaces such as handrails with UV-C.,437
+4,4. ENHANCE CLEANING AND HYGIENE,4_5,4.5 Use ultraviolet (UV) radiation for disinfection,"Disinfect rooms, vehicles or similar infrastructure with UV-C.",438
+4,4. ENHANCE CLEANING AND HYGIENE,4_5,4.5 Use ultraviolet (UV) radiation for disinfection,"Increase sunlight in buildings, e.g. by keeping blinds open.",439
+4,4. ENHANCE CLEANING AND HYGIENE,4_6,4.6 Leave items or areas to decontaminate,"Place non-urgent, non-perishable, post-delivered items (e.g. letters and packages) in bags and wait before opening.",440
+4,4. ENHANCE CLEANING AND HYGIENE,4_6,4.6 Leave items or areas to decontaminate,"Use boxes to collect mail, with the opportunity to inspect without touching so the recipient can decide whether to open or leave to disinfect.",441
+4,4. ENHANCE CLEANING AND HYGIENE,4_6,4.6 Leave items or areas to decontaminate,"Deliver items into storage lockers, perhaps with an enforced or encouraged delay between delivery and collection.",442
+4,4. ENHANCE CLEANING AND HYGIENE,4_6,4.6 Leave items or areas to decontaminate,Quarantine communal items (e.g. library books or rejected non-perishable items in shops) before re-issue or re-stocking.,443
+4,4. ENHANCE CLEANING AND HYGIENE,4_6,4.6 Leave items or areas to decontaminate,"Quarantine second-hand items (e.g. from thrift stores, garage sales or online auctions) before use.",444
+4,4. ENHANCE CLEANING AND HYGIENE,4_6,4.6 Leave items or areas to decontaminate,Double bag personal protective equipment and leave to decontaminate before disposal.,445
+4,4. ENHANCE CLEANING AND HYGIENE,4_6,4.6 Leave items or areas to decontaminate,Store items that could be contaminated (e.g. shopping bags) so the one stored longest is taken first. ,446
+4,4. ENHANCE CLEANING AND HYGIENE,4_6,4.6 Leave items or areas to decontaminate,As a principle select the least-recently-used first for anything shared (e.g. hotel rooms or vehicle fleet). Employ a rotation system.,447
+4,4. ENHANCE CLEANING AND HYGIENE,4_6,4.6 Leave items or areas to decontaminate,Where multiple options occur (e.g. bus seats on relatively empty buses) or can be created (e.g. line of chairs in front of someone running a series of one-to-one meetings) allocate seats to minimize overlap and maximize time since last used.,448
+4,4. ENHANCE CLEANING AND HYGIENE,4_6,4.6 Leave items or areas to decontaminate,Encourage or require pause between shared use of common facilities such as toilets.,449
+5,5. REDUCE TRANSMISSION THROUGH WASTE WATER,5_1,5.1 Maintain wastewater systems,"Explore and address causes of foul smells in bathrooms, kitchens, or wash areas.",450
+5,5. REDUCE TRANSMISSION THROUGH WASTE WATER,5_1,5.1 Maintain wastewater systems,Fit functioning U-bends on water appliances in bathrooms and kitchens. ,451
+5,5. REDUCE TRANSMISSION THROUGH WASTE WATER,5_1,5.1 Maintain wastewater systems,Open a tap on all water appliances for at least 5 seconds twice a day (morning and evening) paying special attention to floor drains in bathrooms and wetrooms to prevent the loss of the water-trap seal within a U-bend.,452
+5,5. REDUCE TRANSMISSION THROUGH WASTE WATER,5_1,5.1 Maintain wastewater systems,"If the wastewater pipework from an appliance appears to be disconnected or open, seal it immediately (e.g. use an elastic rubber glove or plastic bag to cover the end).",453
+5,5. REDUCE TRANSMISSION THROUGH WASTE WATER,5_1,5.1 Maintain wastewater systems,Quickly seal cracks or leaks in pipework.,454
+5,5. REDUCE TRANSMISSION THROUGH WASTE WATER,5_1,5.1 Maintain wastewater systems,Continuously monitor whole system performance (for large or tall buildings).,455
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_1,6.1 Physical distancing involving non-human animals,Encourage physical distancing measures between humans and wild/pet animals.,456
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_1,6.1 Physical distancing involving non-human animals,"Minimize touching, food sharing and direct contact of suspected infected persons with pet animals, such as cats, to reduce risks of disease transmission.",457
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_1,6.1 Physical distancing involving non-human animals,Reduce contact between pet animals (e.g. separate food and water bowls; keeping in separate rooms) that have been in contact with people that may/do have COVID-19.,458
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_1,6.1 Physical distancing involving non-human animals,"Keep pet cats indoors when possible, especially when there is a risk they may be infected, e.g. if someone in the household has symptoms of COVID-19 or when the infection rate in the general population is high.",459
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_1,6.1 Physical distancing involving non-human animals,"Walk dogs on a leash, physically distant from people.",460
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_1,6.1 Physical distancing involving non-human animals,Keep dogs close to owner when out walking (whether on a lead or not).,461
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_1,6.1 Physical distancing involving non-human animals,Avoid taking pets to public places where many people gather.,462
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_1,6.1 Physical distancing involving non-human animals,"Where possible, have another member of household or bubble care for pet if owner has/may have COVID-19.",463
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_1,6.1 Physical distancing involving non-human animals,Avoid using dog-walkers or pet-sitters that are not part of pet/owner’s household.,464
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_1,6.1 Physical distancing involving non-human animals,"Rescue, treat and rehome feral animals.",465
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_1,6.1 Physical distancing involving non-human animals,Avoid contact with feral animals otherwise.,466
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_2,6.2 Improve hygiene involving non-human animals,Disinfect and safely dispose of potentially contaminated matter (e.g. used cat litter) from pets that may be infected with COVID-19.,467
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_2,6.2 Improve hygiene involving non-human animals,"Wash pets before handing to others, e.g. veterinarians.",468
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_2,6.2 Improve hygiene involving non-human animals,"Wash hands after handling animals, their food or their waste.",469
+6,6. REDUCE TRANSMISSION THROUGH NON-HUMAN ANIMALS IN THE COMMUNITY,6_2,6.2 Improve hygiene involving non-human animals,"Clean up after pets, especially in public areas.",470
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,Impose international travel restrictions or border closures in response to national indicators of infection load or presence of novel viral variants.,471
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,"Suspend tourist visas, e.g. in Zambia and for pilgrims entering Saudi Arabia.",472
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,"Prohibit international sporting events, e.g. Tokyo 2020 Olympics and general ban in South Africa.",473
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,Ban away fans from sporting events.,474
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,"Establish “air bridges” or “travel bubbles” between countries with low, or similar, infection loads.",475
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,Impose regional travel restrictions in response to regional indicators of infection load or presence of novel viral variants.,476
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,"Isolate communities and monitor movements in and out through a limited number of checkpoints, e.g. in China.",477
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,"Prohibit or discourage travel from urban centres to second/family homes in rural communities, to reduce burden on rural health infrastructure. For example, Norwegians were banned from summer cottages.",478
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,"Encourage people to visit recreational sites as close as possible to their home, and ideally those that can be reached by personal transport.",479
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,"Suspend intercity travel services, e.g. interstate buses and tourist coaches in Brazil.",480
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,"Restrict long-distance travel to specific purposes (e.g. essential work, family emergency, care of relatives) with a clear and enforceable definition of what constitutes long-distance (e.g. a maximum travel radius, crossing local authority boundaries, moving between settlements or going further than strictly necessary for a given task).",481
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,"Establish punishments for not obeying rules/guidelines on travel including falsely providing travel history, e.g. in Singapore.",482
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,"Provide incentives for avoiding travel (e.g. refunds for booked tickets, coupons for choosing to cancel tickets).",483
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,Make information readily available on infection risk and travel restrictions.,484
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_1,7.1 Reduce large-scale movement that exacerbates problem,Stop or restrict contact with societies that currently have minimal contact and so unlikely to be infected.,485
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,Apply the options described in sections above to transport systems.,486
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Encourage passengers to arrive well in advance of departure, allowing time to observe hygiene protocols and avoiding last-minute rushing around.",487
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Encourage passengers not to arrive too early, to reduce the number of people in stations, airports or terminals.",488
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Encourage or require quarantine prior to international travel, especially if recently in contact with an infected individual.",489
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Encourage or require quarantine after international travel (e.g. when arriving in Canada or New Zealand) or intercity travel (e.g. when arriving in Beijing from other cities in China), especially if coming from areas with high number of cases and/or a variant of concern.",490
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,Track individuals (e.g. with phone apps or electronic bracelets) to encourage and monitor compliance with quarantine restrictions.,491
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Intercept infected, symptomatic individuals before or during international journeys, using testing or thermal screening.",492
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Provide isolation spaces for individuals who show symptoms of COVID-19 during travel, e.g. last three rows of seats on planes.",493
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Intercept infected, symptomatic individuals on arrival, using testing, thermal screening or screening with dogs. Consider the risk of false negatives, i.e. failure to detect infected individuals.",494
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Use separate facilities for travellers arriving from areas with high infection rates or novel variants, e.g. separate terminal for arrivals from “red list” countries, Heathrow Airport, UK.",495
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,Require proof of complete vaccination or recovery from COVID-19 prior to travel.,496
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,Require a negative test for COVID-19 taken shortly (typically 48–72 h) before travel.,497
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Require self-certification of an absence of COVID-19 symptoms when arriving in a new country, e.g. France.",498
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,Provide special travel passports/stamps/certificates for essential travel. This requires robust evidence that certain people have developed persistent immunity and are not infected.,499
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Provide people travelling with personal protective equipment, such as face masks.",500
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,Encourage or require people to use their own personal protective equipment when travelling.,501
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Encourage individuals or families to use private transport such as cars, rather than public transport such as buses.",502
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,Tightly supervise travel from origin to destination e.g. for migrant workers in China and Europe. Designated personnel supervise groups of travellers on designated vehicles travelling designated routes; supervision begins at home.,503
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_2,7.2 Reduce transmission risk of those travelling,"Charter coaches, trains or planes for a group travelling together, such as sports teams.",504
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_3,7.3 Reduce transmission risk through contaminated goods,"Restrict movements of transit passengers when on ground, e.g. ensure they remain airside in airports.",505
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_3,7.3 Reduce transmission risk through contaminated goods,Apply the options described in Sections 3 and 4 above to imported and exported goods.,506
+7,7. RESTRICT DISEASE SPREAD BETWEEN AREAS,7_3,7.3 Reduce transmission risk through contaminated goods,"Regularly test imported food (especially chilled/frozen food), and quarantine or destroy contaminated items. ",507
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,"Provide information on current local status of pandemic (e.g. colour coding regions or cities, reporting R number) to influence public behaviour.",508
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,"Create a hotline communication channel (e.g. telephone line) specifically for information on the pathogen, disease or response.",509
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,"Provide clear, memorable instructions about desirable public behaviours.",510
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,Put signs in key locations (e.g. at entrance to building next to hand sanitizer) to remind people of desirable behaviours.,511
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,"Use a variety of media to communicate with different groups within society, e.g. including information about desirable behaviours in song lyrics.",512
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,Debunk/correct fake news or misinformation about virus and biosecurity measures.,513
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,"Communicate honestly, transparently and proactively with the public, to maintain trust.",514
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,"Maintain an appropriate level of fear amongst the public, to avoid complacency with regard to societal biosecurity measures.",515
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,"Communicate how biosecurity measures benefit society as a whole, rather than individuals.",516
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,"Report when people are successfully following societal biosecurity advice, not just when they are breaking it.",517
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,"Involve citizens/stakeholders when selecting measures, designing biosecurity plans and producing guidance.",518
+8,8. MANAGE PUBLIC KNOWLEDGE AND ATTITUDE,8_1,8.1 Manage public knowledge and attitude,Clearly explain the consequences of not following measures for self and others.,519
